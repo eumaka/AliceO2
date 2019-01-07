@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d6d/classo2_1_1ITSMFT_1_1PixelReader.html" title="PixelReader class for the ITSMFT. " alt="" coords="5,35,176,61"/>
+<area shape="rect" id="node2" href="$d2/dfc/classo2_1_1ITSMFT_1_1DigitPixelReader.html" title="o2::ITSMFT::DigitPixelReader" alt="" coords="225,5,423,32"/>
+<area shape="rect" id="node3" href="$df/dae/classo2_1_1ITSMFT_1_1RawPixelReader.html" title="o2::ITSMFT::RawPixelReader\l\&lt; Mapping \&gt;" alt="" coords="225,57,423,98"/>
+</map>

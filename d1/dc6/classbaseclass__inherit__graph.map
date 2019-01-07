@@ -1,0 +1,4 @@
+<map id="baseclass" name="baseclass">
+<area shape="rect" id="node2" href="$d5/d13/classpcg__detail_1_1extended.html" title="{pcg_detail::extended\l\&lt; table_pow2, advance\l_pow2, baseclass, extvalclass,\l kdd \&gt;\n||+ operator()()\l+ operator()()\l+ set()\l+ advance()\l+ backstep()\l+ extended()\l+ extended()\l+ extended()\l+ extended()\l+ extended()\l+ extended()\l+ extended()\l+ seed()\l+ period_pow2()\l}" alt="" coords="5,131,211,443"/>
+<area shape="rect" id="node3" href="$d4/d5e/structpcg__detail_1_1inside__out.html" title="{pcg_detail::inside\l_out\&lt; baseclass \&gt;\n||+ inside_out()\l+ external_step()\l+ external_advance()\l}" alt="" coords="235,226,379,347"/>
+</map>

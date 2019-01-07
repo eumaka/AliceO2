@@ -1,0 +1,32 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="6,436,74,463"/>
+<area shape="rect" id="node2" href="$d2/da4/classo2_1_1Base_1_1GeometryManager.html" title="o2::Base::GeometryManager" alt="" coords="124,5,313,32"/>
+<area shape="rect" id="node3" href="$dc/d54/classo2_1_1ccdb_1_1Condition.html" title="o2::ccdb::Condition" alt="" coords="151,56,286,83"/>
+<area shape="rect" id="node4" href="$da/d0f/classo2_1_1ccdb_1_1ConditionId.html" title="o2::ccdb::ConditionId" alt="" coords="145,107,292,133"/>
+<area shape="rect" id="node5" href="$d0/d58/classo2_1_1ccdb_1_1ConditionMetaData.html" title="o2::ccdb::ConditionMetaData" alt="" coords="123,157,315,184"/>
+<area shape="rect" id="node6" href="$d5/dd3/classo2_1_1ccdb_1_1IdPath.html" title="o2::ccdb::IdPath" alt="" coords="159,208,278,235"/>
+<area shape="rect" id="node7" href="$dd/d6f/classo2_1_1ccdb_1_1IdRunRange.html" title="o2::ccdb::IdRunRange" alt="" coords="142,259,295,285"/>
+<area shape="rect" id="node8" href="$d5/ddf/classo2_1_1ccdb_1_1Manager.html" title="o2::ccdb::Manager" alt="" coords="153,309,284,336"/>
+<area shape="rect" id="node9" href="$d6/dbd/classo2_1_1ccdb_1_1Storage.html" title="o2::ccdb::Storage" alt="" coords="156,360,281,387"/>
+<area shape="rect" id="node13" href="$d1/db1/classo2_1_1ccdb_1_1StorageFactory.html" title="o2::ccdb::StorageFactory" alt="" coords="134,411,303,437"/>
+<area shape="rect" id="node17" href="$d8/daa/classo2_1_1ccdb_1_1StorageParameters.html" title="o2::ccdb::StorageParameters" alt="" coords="123,461,315,488"/>
+<area shape="rect" id="node21" href="$d9/d17/classo2_1_1ccdb_1_1XmlHandler.html" title="o2::ccdb::XmlHandler" alt="" coords="145,512,293,539"/>
+<area shape="rect" id="node22" href="$d6/d00/classo2_1_1EMCAL_1_1Digitizer.html" title="o2::EMCAL::Digitizer" alt="" coords="145,563,292,589"/>
+<area shape="rect" id="node23" href="$d6/d5b/classo2_1_1ITS_1_1V11Geometry.html" title="o2::ITS::V11Geometry" alt="" coords="142,613,295,640"/>
+<area shape="rect" id="node26" href="$d9/d42/classo2_1_1ITSMFT_1_1ClusterShape.html" title="o2::ITSMFT::ClusterShape" alt="" coords="129,664,308,691"/>
+<area shape="rect" id="node27" href="$d8/d92/classo2_1_1ITSMFT_1_1Digitizer.html" title="o2::ITSMFT::Digitizer" alt="" coords="145,715,293,741"/>
+<area shape="rect" id="node28" href="$dc/ddc/classo2_1_1ITSMFT_1_1SDigit.html" title="o2::ITSMFT::SDigit" alt="" coords="151,765,287,792"/>
+<area shape="rect" id="node29" href="$db/d73/classo2_1_1phos_1_1Digitizer.html" title="o2::phos::Digitizer" alt="" coords="155,816,283,843"/>
+<area shape="rect" id="node30" href="$d7/d2d/classo2_1_1TObjectWrapper.html" title="o2::TObjectWrapper\&lt; T \&gt;" alt="" coords="133,867,304,893"/>
+<area shape="rect" id="node10" href="$da/d4b/classo2_1_1ccdb_1_1FileStorage.html" title="o2::ccdb::FileStorage" alt="" coords="401,157,548,184"/>
+<area shape="rect" id="node11" href="$dd/d22/classo2_1_1ccdb_1_1GridStorage.html" title="o2::ccdb::GridStorage" alt="" coords="400,208,549,235"/>
+<area shape="rect" id="node12" href="$d4/d9c/classo2_1_1ccdb_1_1LocalStorage.html" title="o2::ccdb::LocalStorage" alt="" coords="397,259,553,285"/>
+<area shape="rect" id="node14" href="$d4/d72/classo2_1_1ccdb_1_1FileStorageFactory.html" title="o2::ccdb::FileStorageFactory" alt="" coords="379,309,570,336"/>
+<area shape="rect" id="node15" href="$db/da9/classo2_1_1ccdb_1_1GridStorageFactory.html" title="o2::ccdb::GridStorageFactory" alt="" coords="378,360,571,387"/>
+<area shape="rect" id="node16" href="$df/d0a/classo2_1_1ccdb_1_1LocalStorageFactory.html" title="o2::ccdb::LocalStorageFactory" alt="" coords="375,411,575,437"/>
+<area shape="rect" id="node18" href="$df/d4d/classo2_1_1ccdb_1_1FileStorageParameters.html" title="o2::ccdb::FileStorageParameters" alt="" coords="368,461,581,488"/>
+<area shape="rect" id="node19" href="$d7/d66/classo2_1_1ccdb_1_1GridStorageParameters.html" title="o2::ccdb::GridStorageParameters" alt="" coords="367,512,583,539"/>
+<area shape="rect" id="node20" href="$d1/da8/classo2_1_1ccdb_1_1LocalStorageParameters.html" title="o2::ccdb::LocalStorageParameters" alt="" coords="363,563,586,589"/>
+<area shape="rect" id="node24" href="$df/daf/classo2_1_1ITS_1_1V1Layer.html" title="o2::ITS::V1Layer" alt="" coords="414,613,535,640"/>
+<area shape="rect" id="node25" href="$d5/de4/classo2_1_1ITS_1_1V3Layer.html" title="o2::ITS::V3Layer" alt="" coords="414,664,535,691"/>
+</map>

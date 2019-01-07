@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/DigitPixelReader.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/DigitPixelReader.h">
+<area shape="rect" id="node2" href="$d5/d1b/DigitPixelReader_8cxx.html" title="Implementation of the Alpide pixel reader for MC digits processing. " alt="" coords="45,162,301,233"/>
+<area shape="rect" id="node3" href="$d6/d67/ITSMFT_2ITS_2reconstruction_2include_2ITSReconstruction_2ClustererTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/reconstruction/include\l/ITSReconstruction/ClustererTask.h" alt="" coords="327,155,559,240"/>
+<area shape="rect" id="node7" href="$db/d12/ITSMFT_2MFT_2reconstruction_2include_2MFTReconstruction_2ClustererTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/include\l/MFTReconstruction/ClustererTask.h" alt="" coords="758,155,996,240"/>
+<area shape="rect" id="node4" href="$d8/d95/ITSMFT_2ITS_2reconstruction_2src_2ClustererTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/reconstruction/src/ClustererTask.cxx" alt="" coords="5,289,245,359"/>
+<area shape="rect" id="node5" href="$d6/da1/run__clus__its_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_its.C" alt="" coords="271,296,428,352"/>
+<area shape="rect" id="node6" href="$d7/d59/run__clus__itsSA_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_itsSA.C" alt="" coords="452,296,620,352"/>
+<area shape="rect" id="node8" href="$d9/d5e/ITSMFT_2MFT_2reconstruction_2src_2ClustererTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/src/ClustererTask.cxx" alt="" coords="645,289,885,359"/>
+<area shape="rect" id="node9" href="$d4/dfd/run__clus__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_mft.C" alt="" coords="911,296,1068,352"/>
+<area shape="rect" id="node10" href="$d7/d8c/run__clus__mftSA_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_mftSA.C" alt="" coords="1092,296,1265,352"/>
+</map>

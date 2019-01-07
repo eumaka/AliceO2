@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d06/classo2_1_1detectors_1_1DetMatrixCache.html" title="o2::detectors::DetMatrix\lCache" alt="" coords="5,53,168,94"/>
+<area shape="rect" id="node2" href="$d8/d60/classo2_1_1detectors_1_1DetMatrixCacheIndirect.html" title="Variant of DetMatrixCache for non consecutive indexing. " alt="" coords="229,82,392,123"/>
+<area shape="rect" id="node4" href="$d7/d98/classo2_1_1ITSMFT_1_1GeometryTGeo.html" title="o2::ITSMFT::GeometryTGeo" alt="" coords="216,31,405,57"/>
+<area shape="rect" id="node3" href="$d9/d9c/classo2_1_1trd_1_1TRDGeometry.html" title="o2::trd::TRDGeometry" alt="" coords="465,117,617,144"/>
+<area shape="rect" id="node5" href="$d9/dc7/classo2_1_1ITS_1_1GeometryTGeo.html" title="o2::ITS::GeometryTGeo" alt="" coords="460,56,623,83"/>
+<area shape="rect" id="node6" href="$d3/d82/classo2_1_1MFT_1_1GeometryTGeo.html" title="o2::MFT::GeometryTGeo" alt="" coords="457,5,625,32"/>
+<area shape="rect" id="node8" href="$d5/db3/classo2_1_1trd_1_1TRDGeometryFlat.html" title="o2::trd::TRDGeometryFlat" alt="" coords="454,188,629,215"/>
+<area shape="rect" id="node9" href="$d6/dbe/classo2_1_1trd_1_1TRDGeometryBase.html" title="o2::trd::TRDGeometryBase" alt="" coords="219,148,402,175"/>
+</map>

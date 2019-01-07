@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pcg_detail::engine\l\< xtype, itype, output\l_mixin, output_previous,\l stream_mixin, multiplier\l_mixin \>::can_specify_stream_tag",height=0.2,width=0.4,color="black",URL="$d2/d22/structpcg__detail_1_1engine_1_1can__specify__stream__tag.html"];
+}

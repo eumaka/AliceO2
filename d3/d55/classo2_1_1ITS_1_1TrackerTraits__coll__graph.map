@@ -1,0 +1,5 @@
+<map id="o2::ITS::TrackerTraits" name="o2::ITS::TrackerTraits">
+<area shape="rect" id="node2" href="$d4/d4f/structo2_1_1ITS_1_1TrackingParameters.html" title="{o2::ITS::TrackingParameters\n||+ operator=()\l+ CellMinimumLevel()\l}" alt="" coords="145,410,335,502"/>
+<area shape="rect" id="node3" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="5,35,51,112"/>
+<area shape="rect" id="node5" href="$d4/d78/classo2_1_1ITS_1_1PrimaryVertexContext.html" title="{o2::ITS::PrimaryVertexContext\n||+ PrimaryVertexContext()\l+ ~PrimaryVertexContext()\l+ PrimaryVertexContext()\l+ operator=()\l+ initialise()\l+ getPrimaryVertex()\l+ getClusters()\l+ getCells()\l+ getCellsLookupTable()\l+ getCellsNeighbours()\l+ getRoads()\l+ isClusterUsed()\l+ markUsedCluster()\l+ getIndexTables()\l+ getTracklets()\l+ getTrackletsLookupTable()\l}" alt="" coords="1027,307,1229,605"/>
+</map>

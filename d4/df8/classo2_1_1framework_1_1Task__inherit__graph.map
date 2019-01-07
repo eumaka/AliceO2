@@ -1,0 +1,5 @@
+<map id="o2::framework::Task" name="o2::framework::Task">
+<area shape="rect" id="node2" href="$dd/d33/classATask.html" title="{ATask\n||+ ATask()\l+ init()\l+ run()\l}" alt="" coords="5,197,84,304"/>
+<area shape="rect" id="node3" href="$d7/d29/classBTask.html" title="{BTask\n||+ run()\l}" alt="" coords="110,212,169,289"/>
+<area shape="rect" id="node4" href="$d8/d30/classo2_1_1framework_1_1Dispatcher.html" title="{o2::framework::Dispatcher\n||+ Dispatcher()\l+ ~Dispatcher()\l+ init()\l+ run()\l+ registerPath()\l+ getName()\l+ getInputSpecs()\l+ getOutputSpecs()\l}" alt="" coords="195,161,371,341"/>
+</map>

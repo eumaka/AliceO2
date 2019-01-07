@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="baseclass",height=0.2,width=0.4,color="black",URL="$d8/dcb/classbaseclass.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pcg_detail::extended\l\< table_pow2, advance\l_pow2, baseclass, extvalclass,\l kdd \>",height=0.2,width=0.4,color="black",URL="$d5/d13/classpcg__detail_1_1extended.html"];
+  Node1 -> Node3 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pcg_detail::inside\l_out\< baseclass \>",height=0.2,width=0.4,color="black",URL="$d4/d5e/structpcg__detail_1_1inside__out.html"];
+}

@@ -1,0 +1,14 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/include/TOFReconstruction" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_3dfda2b66c3c3704521dbfdd9d3caacf {
+    graph [ bgcolor="#ddddee", pencolor="black", label="include" fontname="Helvetica", fontsize="10", URL="dir_3dfda2b66c3c3704521dbfdd9d3caacf.html"]
+  dir_ea0fd6262befb6a47c036a9bedd70371 [shape=box, label="TOFReconstruction", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_ea0fd6262befb6a47c036a9bedd70371.html"];
+  }
+  dir_0189f3ad6abecd72f822a0c3914f12b2 [shape=box label="base" color="red" URL="dir_0189f3ad6abecd72f822a0c3914f12b2.html"];
+  dir_2171f7ec022c5423887b07c69b2f5b48 [shape=box label="DataFormats" color="red" URL="dir_2171f7ec022c5423887b07c69b2f5b48.html"];
+  dir_ea0fd6262befb6a47c036a9bedd70371->dir_0189f3ad6abecd72f822a0c3914f12b2 [headlabel="2", labeldistance=1.5 headhref="dir_000278_000228.html"];
+  dir_ea0fd6262befb6a47c036a9bedd70371->dir_2171f7ec022c5423887b07c69b2f5b48 [headlabel="3", labeldistance=1.5 headhref="dir_000278_000054.html"];
+}

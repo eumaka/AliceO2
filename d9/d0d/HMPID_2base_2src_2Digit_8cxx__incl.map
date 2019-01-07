@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/base/src/Digit.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/base/src/Digit.cxx">
+<area shape="rect" id="node2" href="$d7/d09/HMPID_2base_2include_2HMPIDBase_2Digit_8h.html" title="HMPIDBase/Digit.h" alt="" coords="1640,125,1779,152"/>
+<area shape="rect" id="node3" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="1272,200,1499,227"/>
+<area shape="rect" id="node5" href="$d9/dc6/HMPID_2base_2include_2HMPIDBase_2Hit_8h.html" title="HMPIDBase/Hit.h" alt="" coords="1581,200,1709,227"/>
+<area shape="rect" id="node25" href="$de/d16/Param_8h.html" title="HMPIDBase/Param.h" alt="" coords="1863,200,2011,227"/>
+<area shape="rect" id="node6" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1079,275,1231,317"/>
+<area shape="rect" id="node18" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1548,283,1743,309"/>
+<area shape="rect" id="node7" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="925,365,1091,392"/>
+<area shape="rect" id="node15" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1491,448,1657,475"/>
+<area shape="rect" id="node19" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1641,365,1836,392"/>
+</map>

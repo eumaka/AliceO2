@@ -1,0 +1,4 @@
+<map id="o2::ITS::GPU::UniquePointer&lt; T &gt;" name="o2::ITS::GPU::UniquePointer&lt; T &gt;">
+<area shape="rect" id="node2" href="$dc/dbb/classo2_1_1ITS_1_1GPU_1_1UniquePointer.html" title="{o2::ITS::GPU::UniquePointer\l\&lt; float3 \&gt;\n||+ UniquePointer()\l+ UniquePointer()\l+ UniquePointer()\l+ UniquePointer()\l+ ~UniquePointer()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l+ operator*()\l+ operator*()\l# destroy()\l}" alt="" coords="5,309,197,563"/>
+<area shape="rect" id="node3" href="$dc/dbb/classo2_1_1ITS_1_1GPU_1_1UniquePointer.html" title="{o2::ITS::GPU::UniquePointer\l\&lt; GPU::DeviceStoreNV \&gt;\n||+ UniquePointer()\l+ UniquePointer()\l+ UniquePointer()\l+ UniquePointer()\l+ ~UniquePointer()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l+ operator*()\l+ operator*()\l# destroy()\l}" alt="" coords="221,309,413,563"/>
+</map>

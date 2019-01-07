@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/src/Detector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/src/Detector.cxx">
+<area shape="rect" id="node5" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="43,315,263,341"/>
+<area shape="rect" id="node10" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="3203,126,3355,167"/>
+<area shape="rect" id="node39" href="$de/d29/ZDC_2simulation_2include_2ZDCSimulation_2Detector_8h.html" title="ZDCSimulation/Detector.h" alt="" coords="2453,133,2629,160"/>
+<area shape="rect" id="node73" href="$d7/ddf/ZDC_2simulation_2include_2ZDCSimulation_2Hit_8h.html" title="ZDCSimulation/Hit.h" alt="" coords="825,224,967,251"/>
+<area shape="rect" id="node11" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="3179,307,3387,349"/>
+<area shape="rect" id="node21" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="3841,217,3993,258"/>
+<area shape="rect" id="node29" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="4572,307,4724,349"/>
+<area shape="rect" id="node33" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="3421,217,3573,258"/>
+<area shape="rect" id="node17" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="3717,397,3837,424"/>
+<area shape="rect" id="node19" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3586,480,3824,507"/>
+<area shape="rect" id="node42" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="2347,224,2577,251"/>
+<area shape="rect" id="node59" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1225,224,1399,251"/>
+<area shape="rect" id="node72" href="$db/d64/ZDC_2base_2include_2ZDCBase_2Geometry_8h.html" title="ZDCBase/Geometry.h" alt="" coords="2755,224,2907,251"/>
+<area shape="rect" id="node48" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1343,397,1509,424"/>
+<area shape="rect" id="node56" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="686,480,852,507"/>
+<area shape="rect" id="node64" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="313,397,508,424"/>
+<area shape="rect" id="node69" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="565,315,760,341"/>
+<area shape="rect" id="node74" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="389,307,541,349"/>
+</map>

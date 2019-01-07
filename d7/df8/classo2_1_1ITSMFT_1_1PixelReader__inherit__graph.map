@@ -1,0 +1,4 @@
+<map id="o2::ITSMFT::PixelReader" name="o2::ITSMFT::PixelReader">
+<area shape="rect" id="node2" href="$d2/dfc/classo2_1_1ITSMFT_1_1DigitPixelReader.html" title="{o2::ITSMFT::DigitPixelReader\n||+ DigitPixelReader()\l+ ~DigitPixelReader()\l+ setDigits()\l+ setDigitsMCTruth()\l+ getDigitsMCTruth()\l+ getNextChipData()\l+ getNextChipData()\l+ init()\l+ openInput()\l+ readNextEntry()\l+ clear()\l}" alt="" coords="5,248,203,472"/>
+<area shape="rect" id="node3" href="$df/dae/classo2_1_1ITSMFT_1_1RawPixelReader.html" title="{o2::ITSMFT::RawPixelReader\l\&lt; Mapping \&gt;\n||+ RawPixelReader()\l+ ~RawPixelReader()\l+ getModuleMin()\l+ getModuleMax()\l+ openInput()\l+ getNextChipData()\l+ getNextChipData()\l+ convertDigits2Raw()\l+ init()\l}" alt="" coords="227,255,425,465"/>
+</map>

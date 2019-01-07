@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/cuda/include/ITStrackingCUDA/TrackerTraitsNV.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/tracking/cuda/include/ITStrackingCUDA/TrackerTraitsNV.h">
+<area shape="rect" id="node2" href="$d3/d59/Configuration_8h.html" title="ITStracking/Configuration.h" alt="" coords="840,453,1021,480"/>
+<area shape="rect" id="node7" href="$df/d3d/Definitions_8h.html" title="ITStracking/Definitions.h" alt="" coords="107,603,273,629"/>
+<area shape="rect" id="node9" href="$d2/dee/TrackerTraits_8h.html" title="ITStracking/TrackerTraits.h" alt="" coords="747,139,928,165"/>
+<area shape="rect" id="node6" href="$d0/d86/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Constants_8h.html" title="ITStracking/Constants.h" alt="" coords="678,528,841,555"/>
+<area shape="rect" id="node17" href="$dc/d3e/MathUtils_8h.html" title="ITStracking/MathUtils.h" alt="" coords="1045,453,1204,480"/>
+<area shape="rect" id="node18" href="$d3/da9/PrimaryVertexContext_8h.html" title="ITStracking/PrimaryVertex\lContext.h" alt="" coords="552,214,728,255"/>
+<area shape="rect" id="node21" href="$db/d48/Road_8h.html" title="ITStracking/Road.h" alt="" coords="729,379,863,405"/>
+<area shape="rect" id="node20" href="$d2/d56/Cell_8h.html" title="ITStracking/Cell.h" alt="" coords="246,528,372,555"/>
+<area shape="rect" id="node22" href="$da/dc0/Tracklet_8h.html" title="ITStracking/Tracklet.h" alt="" coords="353,304,503,331"/>
+<area shape="rect" id="node23" href="$da/d7f/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Cluster_8h.html" title="ITStracking/Cluster.h" alt="" coords="355,379,501,405"/>
+<area shape="rect" id="node24" href="$d2/d0c/IndexTableUtils_8h.html" title="ITStracking/IndexTableUtils.h" alt="" coords="408,453,603,480"/>
+</map>

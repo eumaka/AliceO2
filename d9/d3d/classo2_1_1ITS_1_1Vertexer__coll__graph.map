@@ -1,0 +1,4 @@
+<map id="o2::ITS::Vertexer" name="o2::ITS::Vertexer">
+<area shape="rect" id="node7" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="929,152,975,229"/>
+<area shape="rect" id="node8" href="$d7/d13/classo2_1_1ITS_1_1ROframe.html" title="{o2::ITS::ROframe\n||+ ROframe()\l+ getROFrameId()\l+ getPrimaryVertex()\l+ getPrimaryVerticesNum()\l+ addPrimaryVertex()\l+ addPrimaryReconstructedVertex()\l+ printPrimaryVertices()\l+ getTotalClusters()\l+ getClusters()\l+ getClustersOnLayer()\l+ getTrackingFrameInfoOnLayer()\l+ getClusterTrackingFrameInfo()\l+ getClusterLabels()\l+ getClusterLabels()\l+ getClusterExternalIndex()\l+ addClusterToLayer()\l+ addTrackingFrameInfoToLayer()\l+ addClusterLabelToLayer()\l+ addClusterExternalIndexTo\lLayer()\l+ clear()\l}" alt="" coords="999,5,1229,376"/>
+</map>

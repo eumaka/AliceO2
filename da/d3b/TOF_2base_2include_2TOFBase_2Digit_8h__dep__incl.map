@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/base/include/TOFBase/Digit.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/base/include/TOFBase/Digit.h">
+<area shape="rect" id="node2" href="$dc/d6a/TOF_2base_2src_2Digit_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/base/src\l/Digit.cxx" alt="" coords="482,133,648,203"/>
+<area shape="rect" id="node3" href="$d0/d1a/DataReader_8h.html" title="Definition of the TOF hit reader. " alt="" coords="673,125,871,211"/>
+<area shape="rect" id="node11" href="$d0/d85/TOF_2simulation_2include_2TOFSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer.h" alt="" coords="965,266,1187,337"/>
+<area shape="rect" id="node12" href="$d8/dc6/TOF_2simulation_2include_2TOFSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer\lTask.h" alt="" coords="791,392,1000,477"/>
+<area shape="rect" id="node17" href="$dd/d77/Strip_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Strip.h" alt="" coords="996,133,1195,203"/>
+<area shape="rect" id="node19" href="$d1/d80/TOFDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFDigitWriterSpec.cxx" alt="" coords="1221,133,1411,203"/>
+<area shape="rect" id="node4" href="$dc/d24/TOF_2reconstruction_2include_2TOFReconstruction_2Clusterer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/include/TOFReconstruction\l/Clusterer.h" alt="" coords="358,259,556,344"/>
+<area shape="rect" id="node9" href="$da/df1/TOFClusterizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFClusterizerSpec.cxx" alt="" coords="552,399,744,470"/>
+<area shape="rect" id="node10" href="$d6/d4e/DataReader_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/src/DataReader.cxx" alt="" coords="673,266,871,337"/>
+<area shape="rect" id="node5" href="$d4/d74/TOF_2reconstruction_2include_2TOFReconstruction_2ClustererTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/include/TOFReconstruction\l/ClustererTask.h" alt="" coords="106,392,304,477"/>
+<area shape="rect" id="node8" href="$d5/d8a/TOF_2reconstruction_2src_2Clusterer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/src/Clusterer.cxx" alt="" coords="329,399,527,470"/>
+<area shape="rect" id="node6" href="$d5/d10/TOF_2reconstruction_2src_2ClustererTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/src/ClustererTask.cxx" alt="" coords="5,526,203,597"/>
+<area shape="rect" id="node7" href="$d9/d4b/run__clus__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_tof.C" alt="" coords="228,533,385,589"/>
+<area shape="rect" id="node15" href="$d4/df3/TOF_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Digitizer.cxx" alt="" coords="1025,399,1201,470"/>
+<area shape="rect" id="node16" href="$d6/d61/TOFDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFDigitizerSpec.cxx" alt="" coords="1226,399,1403,470"/>
+<area shape="rect" id="node13" href="$dd/df3/TOF_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/DigitizerTask.cxx" alt="" coords="712,526,888,597"/>
+<area shape="rect" id="node14" href="$db/d79/run__digi__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_tof.C" alt="" coords="912,533,1069,589"/>
+<area shape="rect" id="node18" href="$d6/d43/Strip_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Strip.cxx" alt="" coords="1211,266,1387,337"/>
+</map>

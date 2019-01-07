@@ -1,0 +1,31 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/macro/run_clus_mftSA.C" name="/home/travis/build/AliceO2Group/AliceO2/macro/run_clus_mftSA.C">
+<area shape="rect" id="node3" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="411,661,641,688"/>
+<area shape="rect" id="node33" href="$db/d12/ITSMFT_2MFT_2reconstruction_2include_2MFTReconstruction_2ClustererTask_8h.html" title="MFTReconstruction/Clusterer\lTask.h" alt="" coords="2108,110,2303,151"/>
+<area shape="rect" id="node59" href="$d6/d04/ITSMFT_2common_2reconstruction_2include_2ITSMFTReconstruction_2Clusterer_8h.html" title="ITSMFTReconstruction\l/Clusterer.h" alt="" coords="2673,201,2831,242"/>
+<area shape="rect" id="node11" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="1248,835,1456,877"/>
+<area shape="rect" id="node22" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3627,843,3793,869"/>
+<area shape="rect" id="node18" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1292,933,1412,960"/>
+<area shape="rect" id="node20" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1146,1024,1384,1051"/>
+<area shape="rect" id="node30" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="4165,933,4331,960"/>
+<area shape="rect" id="node36" href="$d0/d6b/ChipMappingMFT_8h.html" title="ITSMFTReconstruction\l/ChipMappingMFT.h" alt="" coords="2934,835,3092,877"/>
+<area shape="rect" id="node37" href="$df/d2e/PixelReader_8h.html" title="Abstract class for Alpide data reader class. " alt="" coords="2334,654,2492,695"/>
+<area shape="rect" id="node43" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2440,745,2592,786"/>
+<area shape="rect" id="node44" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1381,745,1533,786"/>
+<area shape="rect" id="node48" href="$dd/db8/RawPixelReader_8h.html" title="Definition of the Alpide pixel reader for raw data processing. " alt="" coords="1467,563,1625,605"/>
+<area shape="rect" id="node58" href="$d4/d75/DigitPixelReader_8h.html" title="Definition of the Alpide pixel reader for MC digits processing. " alt="" coords="1995,563,2153,605"/>
+<area shape="rect" id="node67" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="3304,571,3507,597"/>
+<area shape="rect" id="node71" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="2323,299,2561,325"/>
+<area shape="rect" id="node38" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="2155,745,2313,786"/>
+<area shape="rect" id="node39" href="$d0/d06/ITSMFT_2common_2base_2include_2ITSMFTBase_2Digit_8h.html" title="ITSMFTBase/Digit.h" alt="" coords="2081,843,2223,869"/>
+<area shape="rect" id="node49" href="$d8/da2/AlpideCoder_8h.html" title="class for the ALPIDE data decoding/encoding " alt="" coords="1299,654,1457,695"/>
+<area shape="rect" id="node51" href="$d3/d57/ChipMappingITS_8h.html" title="ITSMFTReconstruction\l/ChipMappingITS.h" alt="" coords="1531,835,1689,877"/>
+<area shape="rect" id="node52" href="$da/de8/RootChain_8h.html" title="CommonUtils/RootChain.h" alt="" coords="1635,661,1813,688"/>
+<area shape="rect" id="node61" href="$d0/d2d/common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="2974,661,3177,688"/>
+<area shape="rect" id="node66" href="$d3/dba/SegmentationAlpide_8h.html" title="Definition of the SegmentationAlpide class. " alt="" coords="2891,389,3121,416"/>
+<area shape="rect" id="node72" href="$df/ddf/LookUp_8h.html" title="Definition of the LookUp class. " alt="" coords="3566,291,3724,333"/>
+<area shape="rect" id="node63" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="3307,745,3515,786"/>
+<area shape="rect" id="node68" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="3556,654,3743,695"/>
+<area shape="rect" id="node73" href="$d8/ddb/ClusterTopology_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="3665,382,3857,423"/>
+<area shape="rect" id="node75" href="$d1/d08/TopologyDictionary_8h.html" title="Definition of the ClusterTopology class. " alt="" coords="3428,382,3631,423"/>
+<area shape="rect" id="node74" href="$de/dc1/ClusterPattern_8h.html" title="DataFormatsITSMFT/Cluster\lPattern.h" alt="" coords="3677,473,3869,514"/>
+</map>

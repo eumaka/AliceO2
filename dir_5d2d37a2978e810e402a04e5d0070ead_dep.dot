@@ -1,0 +1,14 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/simulation/include/HMPIDSimulation" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_94519519beeff5880967868b09df99b1 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="include" fontname="Helvetica", fontsize="10", URL="dir_94519519beeff5880967868b09df99b1.html"]
+  dir_5d2d37a2978e810e402a04e5d0070ead [shape=box, label="HMPIDSimulation", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_5d2d37a2978e810e402a04e5d0070ead.html"];
+  }
+  dir_37c90836491b695b472bf98d1be8336b [shape=box label="Base" color="red" URL="dir_37c90836491b695b472bf98d1be8336b.html"];
+  dir_939a9b59c9e8f57b8b7a2a3b29b6e0eb [shape=box label="base" color="red" URL="dir_939a9b59c9e8f57b8b7a2a3b29b6e0eb.html"];
+  dir_5d2d37a2978e810e402a04e5d0070ead->dir_37c90836491b695b472bf98d1be8336b [headlabel="1", labeldistance=1.5 headhref="dir_000170_000157.html"];
+  dir_5d2d37a2978e810e402a04e5d0070ead->dir_939a9b59c9e8f57b8b7a2a3b29b6e0eb [headlabel="2", labeldistance=1.5 headhref="dir_000170_000218.html"];
+}

@@ -1,0 +1,5 @@
+<map id="o2::framework::DataSamplingCondition" name="o2::framework::DataSamplingCondition">
+<area shape="rect" id="node2" href="$df/daa/classo2_1_1framework_1_1DataSamplingConditionNConsecutive.html" title="A DataSamplingCondition which approves n consecutive samples in defined cycle. It assumes that timesl..." alt="" coords="5,189,275,325"/>
+<area shape="rect" id="node3" href="$de/d46/classo2_1_1framework_1_1DataSamplingConditionPayloadSize.html" title="A DataSamplingCondition which makes decisions based on payload size. " alt="" coords="299,189,559,325"/>
+<area shape="rect" id="node4" href="$d5/d8a/classo2_1_1framework_1_1DataSamplingConditionRandom.html" title="A DataSamplingCondition which makes decisions randomly, but with determinism. " alt="" coords="583,189,819,325"/>
+</map>

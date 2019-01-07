@@ -1,0 +1,6 @@
+<map id="o2::TPC::Cluster" name="o2::TPC::Cluster">
+<area shape="rect" id="node2" href="$d3/dbf/classo2_1_1dataformats_1_1TimeStampWithError.html" title="{ClusterTimeStamp\n||+ TimeStampWithError()\l+ TimeStampWithError()\l+ getTimeStampError()\l+ setTimeStampError()\l}" alt="" coords="79,422,243,543"/>
+<area shape="rect" id="node3" href="$d0/d94/classo2_1_1dataformats_1_1TimeStamp.html" title="{o2::dataformats::TimeStamp\l\&lt; float \&gt;\n||+ TimeStamp()\l+ TimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l+ operator==()\l}" alt="" coords="5,206,192,357"/>
+<area shape="rect" id="node4" href="$d0/d94/classo2_1_1dataformats_1_1TimeStamp.html" title="{o2::dataformats::TimeStamp\&lt; T \&gt;\n||+ TimeStamp()\l+ TimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l+ operator==()\l}" alt="" coords="111,5,331,141"/>
+<area shape="rect" id="node5" href="$d3/dbf/classo2_1_1dataformats_1_1TimeStampWithError.html" title="{o2::dataformats::TimeStamp\lWithError\&lt; T, E \&gt;\n||+ TimeStampWithError()\l+ TimeStampWithError()\l+ getTimeStampError()\l+ setTimeStampError()\l}" alt="" coords="217,213,404,349"/>
+</map>

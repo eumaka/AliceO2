@@ -1,0 +1,7 @@
+<map id="_BASE" name="_BASE">
+<area shape="rect" id="node2" href="$dc/db1/classo2_1_1data__compression_1_1HuffmanModel.html" title="{o2::data_compression\l::HuffmanModel\&lt; _BASE,\l Rep, orderMSB \&gt;\n|+ OrderMSB\l|+ HuffmanModel()\l+ ~HuffmanModel()\l+ init()\l+ Encode()\l+ Decode()\l+ GenerateHuffmanTree()\l+ assignCode()\l+ write()\l+ write()\l+ read()\l+ read()\l+ print()\l}" alt="" coords="5,131,179,399"/>
+<area shape="rect" id="node3" href="$d7/da1/classo2_1_1test_1_1Fifo.html" title="A thread safe FIFO. " alt="" coords="204,197,324,333"/>
+<area shape="rect" id="node4" href="$d6/da1/classo2_1_1test_1_1geometric__distribution.html" title="specialization of std::geometric_distribution which implements also the analytic formula. " alt="" coords="349,205,517,326"/>
+<area shape="rect" id="node5" href="$db/d37/classo2_1_1test_1_1normal__distribution.html" title="specialization of std::normal_distribution which implements also the analytic formula. " alt="" coords="542,197,724,333"/>
+<area shape="rect" id="node6" href="$d2/dde/classo2_1_1test_1_1poisson__distribution.html" title="specialization of std::poisson_distribution which implements also the analytic formula. " alt="" coords="749,197,939,333"/>
+</map>

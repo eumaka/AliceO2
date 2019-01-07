@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Reconstruction/include/ReconstructionDataFormats/MatchInfoTOF.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Reconstruction/include/ReconstructionDataFormats/MatchInfoTOF.h">
+<area shape="rect" id="node2" href="$d1/d4c/MatchInfoTOF_8cxx.html" title="Class to store the output of the matching to TOF. " alt="" coords="5,139,200,210"/>
+<area shape="rect" id="node3" href="$d0/d74/MatchTOF_8h.html" title="Class to perform TOF matching to global tracks. " alt="" coords="224,139,457,210"/>
+<area shape="rect" id="node4" href="$db/d6a/MatchTOF_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/GlobalTracking\l/src/MatchTOF.cxx" alt="" coords="157,259,331,330"/>
+<area shape="rect" id="node5" href="$dd/d7c/run__match__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_match_tof.C" alt="" coords="356,267,519,323"/>
+</map>

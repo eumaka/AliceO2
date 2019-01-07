@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/DataSamplingCondition.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/DataSamplingCondition.h">
+<area shape="rect" id="node2" href="$de/dca/DataSamplingConditionFactory_8h.html" title="A definition of DataSamplingConditionFactory. " alt="" coords="577,125,809,211"/>
+<area shape="rect" id="node4" href="$d0/dd6/DataSamplingConditionNConsecutive_8cxx.html" title="Implementation of DataSamplingConditionNConsecutive. " alt="" coords="5,259,235,330"/>
+<area shape="rect" id="node5" href="$d0/dab/DataSamplingConditionPayloadSize_8cxx.html" title="Implementation of DataSamplingConditionPayloadSize. " alt="" coords="259,259,489,330"/>
+<area shape="rect" id="node6" href="$d4/dba/DataSamplingConditionRandom_8cxx.html" title="Implementation of random DataSamplingCondition. " alt="" coords="983,259,1213,330"/>
+<area shape="rect" id="node9" href="$d2/d1b/DataSamplingPolicy_8h.html" title="A declaration of O2 Data Sampling Policy. " alt="" coords="1465,133,1688,203"/>
+<area shape="rect" id="node3" href="$de/d2b/DataSamplingConditionFactory_8cxx.html" title="Implementation of DataSamplingConditionFactory. " alt="" coords="729,259,959,330"/>
+<area shape="rect" id="node7" href="$de/d3b/DataSamplingPolicy_8cxx.html" title="Implementation of O2 Data Sampling Policy. " alt="" coords="1238,259,1468,330"/>
+<area shape="rect" id="node8" href="$dd/d70/test__DataSamplingCondition_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_DataSamplingCondition.cxx" alt="" coords="514,259,704,330"/>
+<area shape="rect" id="node10" href="$d7/d33/Dispatcher_8h.html" title="Declaration of Dispatcher for O2 Data Sampling. " alt="" coords="1493,259,1661,330"/>
+<area shape="rect" id="node12" href="$d1/dca/Dispatcher_8cxx.html" title="Implementation of Dispatcher for O2 Data Sampling. " alt="" coords="1581,379,1817,435"/>
+<area shape="rect" id="node13" href="$d3/ddc/test__DataSamplingPolicy_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_DataSamplingPolicy.cxx" alt="" coords="1738,259,1912,330"/>
+<area shape="rect" id="node11" href="$d0/dd6/DataSampling_8cxx.html" title="Implementation of O2 Data Sampling, v1.0. " alt="" coords="1301,379,1557,435"/>
+</map>

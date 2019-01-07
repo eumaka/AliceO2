@@ -1,0 +1,9 @@
+<map id="o2::conf::ConfigurableParam" name="o2::conf::ConfigurableParam">
+<area shape="rect" id="node2" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="{o2::conf::ConfigurableParam\lHelper\&lt; BazParam \&gt;\n||+ getName()\l+ printKeyValues()\l+ putKeyValues()\l+ initFrom()\l+ serializeTo()\l+ Instance()\l}" alt="" coords="5,715,192,880"/>
+<area shape="rect" id="node4" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="{o2::conf::ConfigurableParam\lHelper\&lt; HallSimParam \&gt;\n||+ getName()\l+ printKeyValues()\l+ putKeyValues()\l+ initFrom()\l+ serializeTo()\l+ Instance()\l}" alt="" coords="527,715,715,880"/>
+<area shape="rect" id="node6" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="{o2::conf::ConfigurableParam\lHelper\&lt; InteractionDiamondParam \&gt;\n||+ getName()\l+ printKeyValues()\l+ putKeyValues()\l+ initFrom()\l+ serializeTo()\l+ Instance()\l}" alt="" coords="217,715,451,880"/>
+<area shape="rect" id="node8" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="{o2::conf::ConfigurableParam\lHelper\&lt; P \&gt;\n||+ getName()\l+ printKeyValues()\l+ putKeyValues()\l+ initFrom()\l+ serializeTo()\l+ Instance()\l}" alt="" coords="219,485,407,651"/>
+<area shape="rect" id="node3" href="$df/d57/classBazParam.html" title="{BazParam\n||+ getGasDensity()\l}" alt="" coords="34,953,163,1031"/>
+<area shape="rect" id="node5" href="$da/d14/structo2_1_1passive_1_1HallSimParam.html" title="{o2::passive::HallSimParam\n|+ mCUTGAM\l+ mCUTELE\l+ mCUTNEU\l+ mCUTHAD\l|+ O2ParamDef()\l}" alt="" coords="531,931,712,1053"/>
+<area shape="rect" id="node7" href="$d4/dcf/structo2_1_1eventgen_1_1InteractionDiamondParam.html" title="{o2::eventgen::Interaction\lDiamondParam\n|+ position\l+ width\l|+ O2ParamDef()\l}" alt="" coords="251,939,417,1045"/>
+</map>

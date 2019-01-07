@@ -1,0 +1,7 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataSamplingConditionPayloadSize.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataSamplingConditionPayloadSize.cxx">
+<area shape="rect" id="node2" href="$dd/dcf/DataSamplingCondition_8h.html" title="A standarised data sampling condition, to decide if given data sample should be passed forward..." alt="" coords="43,216,281,243"/>
+<area shape="rect" id="node5" href="$de/dca/DataSamplingConditionFactory_8h.html" title="A definition of DataSamplingConditionFactory. " alt="" coords="229,126,456,167"/>
+<area shape="rect" id="node6" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="518,133,673,160"/>
+<area shape="rect" id="node3" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="5,299,155,325"/>
+<area shape="rect" id="node14" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="942,216,1124,243"/>
+</map>

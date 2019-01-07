@@ -1,0 +1,4 @@
+<map id="o2::eventgen::Generator" name="o2::eventgen::Generator">
+<area shape="rect" id="node3" href="$d2/d82/classo2_1_1eventgen_1_1GeneratorTGenerator.html" title="{o2::eventgen::GeneratorTGenerator\n|# mTGenerator\l# mParticles\l|+ GeneratorTGenerator()\l+ GeneratorTGenerator()\l+ ~GeneratorTGenerator()\l+ setTGenerator()\l+ Init()\l# GeneratorTGenerator()\l# operator=()\l# generateEvent()\l# boostEvent()\l# addTracks()\l# ClassDefOverride()\l}" alt="" coords="5,521,232,759"/>
+<area shape="rect" id="node2" href="$df/d40/classFairGenerator.html" title="{FairGenerator\n||}" alt="" coords="68,5,169,83"/>
+</map>

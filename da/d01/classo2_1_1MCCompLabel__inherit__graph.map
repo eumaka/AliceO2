@@ -1,0 +1,5 @@
+<map id="o2::MCCompLabel" name="o2::MCCompLabel">
+<area shape="rect" id="node2" href="$d1/d2d/classo2_1_1EMCAL_1_1MCLabel.html" title="{o2::EMCAL::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getEventTime()\l+ operator\&lt;()\l+ operator\&gt;()\l+ operator==()\l}" alt="" coords="5,499,155,650"/>
+<area shape="rect" id="node3" href="$da/d99/classo2_1_1fit_1_1MCLabel.html" title="{o2::fit::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getDetID()\l+ ClassDefNV()\l}" alt="" coords="179,514,295,635"/>
+<area shape="rect" id="node4" href="$d7/d53/classo2_1_1tof_1_1MCLabel.html" title="{o2::tof::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getTDC()\l}" alt="" coords="319,521,437,628"/>
+</map>

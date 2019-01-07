@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d14/classo2_1_1conf_1_1ConfigurableParam.html" title="o2::conf::ConfigurableParam" alt="" coords="6,111,194,137"/>
+<area shape="rect" id="node2" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="o2::conf::ConfigurableParam\lHelper\&lt; BazParam \&gt;" alt="" coords="266,5,454,46"/>
+<area shape="rect" id="node4" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="o2::conf::ConfigurableParam\lHelper\&lt; HallSimParam \&gt;" alt="" coords="266,70,454,111"/>
+<area shape="rect" id="node6" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="o2::conf::ConfigurableParam\lHelper\&lt; InteractionDiamondParam \&gt;" alt="" coords="243,135,477,177"/>
+<area shape="rect" id="node8" href="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html" title="o2::conf::ConfigurableParam\lHelper\&lt; P \&gt;" alt="" coords="266,201,454,242"/>
+<area shape="rect" id="node3" href="$df/d57/classBazParam.html" title="BazParam" alt="" coords="575,12,657,39"/>
+<area shape="rect" id="node5" href="$da/d14/structo2_1_1passive_1_1HallSimParam.html" title="o2::passive::HallSimParam" alt="" coords="525,77,707,104"/>
+<area shape="rect" id="node7" href="$d4/dcf/structo2_1_1eventgen_1_1InteractionDiamondParam.html" title="o2::eventgen::Interaction\lDiamondParam" alt="" coords="533,135,699,177"/>
+</map>

@@ -1,0 +1,27 @@
+var namespacepcg__detail =
+[
+    [ "default_multiplier", "d3/db2/structpcg__detail_1_1default__multiplier.html", null ],
+    [ "default_increment", "d5/dd4/structpcg__detail_1_1default__increment.html", null ],
+    [ "no_stream", "d1/d7f/classpcg__detail_1_1no__stream.html", "d1/d7f/classpcg__detail_1_1no__stream" ],
+    [ "oneseq_stream", "dd/dd0/classpcg__detail_1_1oneseq__stream.html", "dd/dd0/classpcg__detail_1_1oneseq__stream" ],
+    [ "specific_stream", "df/d33/classpcg__detail_1_1specific__stream.html", "df/d33/classpcg__detail_1_1specific__stream" ],
+    [ "engine", "d7/de3/classpcg__detail_1_1engine.html", "d7/de3/classpcg__detail_1_1engine" ],
+    [ "xsh_rs_mixin", "d1/d83/structpcg__detail_1_1xsh__rs__mixin.html", null ],
+    [ "xsh_rr_mixin", "df/dbd/structpcg__detail_1_1xsh__rr__mixin.html", null ],
+    [ "rxs_mixin", "d8/d6a/structpcg__detail_1_1rxs__mixin.html", null ],
+    [ "mcg_multiplier", "d9/dcf/structpcg__detail_1_1mcg__multiplier.html", null ],
+    [ "mcg_unmultiplier", "dd/d69/structpcg__detail_1_1mcg__unmultiplier.html", null ],
+    [ "rxs_m_xs_mixin", "da/de0/structpcg__detail_1_1rxs__m__xs__mixin.html", null ],
+    [ "rxs_m_mixin", "dc/de3/structpcg__detail_1_1rxs__m__mixin.html", null ],
+    [ "xsl_rr_mixin", "dc/d49/structpcg__detail_1_1xsl__rr__mixin.html", null ],
+    [ "halfsize_trait", "d6/d73/structpcg__detail_1_1halfsize__trait.html", null ],
+    [ "halfsize_trait< pcg128_t >", "d2/d5b/structpcg__detail_1_1halfsize__trait_3_01pcg128__t_01_4.html", "d2/d5b/structpcg__detail_1_1halfsize__trait_3_01pcg128__t_01_4" ],
+    [ "halfsize_trait< uint64_t >", "d0/d05/structpcg__detail_1_1halfsize__trait_3_01uint64__t_01_4.html", "d0/d05/structpcg__detail_1_1halfsize__trait_3_01uint64__t_01_4" ],
+    [ "halfsize_trait< uint32_t >", "d0/dc2/structpcg__detail_1_1halfsize__trait_3_01uint32__t_01_4.html", "d0/dc2/structpcg__detail_1_1halfsize__trait_3_01uint32__t_01_4" ],
+    [ "halfsize_trait< uint16_t >", "df/dcf/structpcg__detail_1_1halfsize__trait_3_01uint16__t_01_4.html", "df/dcf/structpcg__detail_1_1halfsize__trait_3_01uint16__t_01_4" ],
+    [ "xsl_rr_rr_mixin", "d2/d26/structpcg__detail_1_1xsl__rr__rr__mixin.html", "d2/d26/structpcg__detail_1_1xsl__rr__rr__mixin" ],
+    [ "xsh_mixin", "db/d69/structpcg__detail_1_1xsh__mixin.html", null ],
+    [ "xsl_mixin", "d9/da6/structpcg__detail_1_1xsl__mixin.html", "d9/da6/structpcg__detail_1_1xsl__mixin" ],
+    [ "inside_out", "d4/d5e/structpcg__detail_1_1inside__out.html", "d4/d5e/structpcg__detail_1_1inside__out" ],
+    [ "extended", "d5/d13/classpcg__detail_1_1extended.html", "d5/d13/classpcg__detail_1_1extended" ]
+];

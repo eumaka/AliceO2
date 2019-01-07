@@ -1,0 +1,28 @@
+var classo2_1_1mch_1_1mapping_1_1CathodeSegmentation =
+[
+    [ "CathodeSegmentation", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a6f5393b2fea37f2eb691ad1e76323cab", null ],
+    [ "CathodeSegmentation", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a115e1c743f7074b8c645bf69c935154b", null ],
+    [ "~CathodeSegmentation", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a5c9735dcaa3e7fa5333d0ff0e5a34bfe", null ],
+    [ "dualSampaId", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#acba08f5d24cda29cc847c8eeea928048", null ],
+    [ "findPadByFEE", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a8bd62b39d12e827a7bc76c347e18d06e", null ],
+    [ "findPadByPosition", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a47d96dac8a1928843d37c3171f0ace02", null ],
+    [ "forEachNeighbouringPad", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a889bc9d9adb0a57608bef9a68211adfa", null ],
+    [ "forEachPad", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a0a6d1e7a39002bef3bca51bdd16c5368", null ],
+    [ "forEachPadInArea", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a81e33f998544d9d77cd46f511f64d52a", null ],
+    [ "forEachPadInDualSampa", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a5491aaa72ba26516a508da48e7288a18", null ],
+    [ "isBendingPlane", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a6380fb25fb57d6db2fb7286bb0a9d6f6", null ],
+    [ "isValid", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#aedda9589c1dfbc0a4d89017e41c11a86", null ],
+    [ "nofDualSampas", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a749293d2aa8612a99400de483e29ff22", null ],
+    [ "nofPads", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#ae374690ab6eda3099ffefe794578372f", null ],
+    [ "operator!=", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a652a3821ca59f235b8de8a4a8bafb3c8", null ],
+    [ "operator=", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a988936b19ef5805fa9a4fb3f3241493c", null ],
+    [ "operator==", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a62108924b8132fb47d0df419a0d05839", null ],
+    [ "padAsString", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a273b322a3c57cde2fb376be4af65e287", null ],
+    [ "padDualSampaChannel", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#ae36477e9b7a13fa9e3ce8dc6c7381724", null ],
+    [ "padDualSampaId", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a83cf19231f558bc04a86522abccf8d9e", null ],
+    [ "padPositionX", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#aa7521644de6392d3724ff56236eb3c84", null ],
+    [ "padPositionY", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#a262dbd56fb3e949d26fb2ce2b6d0aa6d", null ],
+    [ "padSizeX", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#aeab5aa0c8c78fe76b3b198e8018f730b", null ],
+    [ "padSizeY", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#ae79f36460fa989b329e06020cb2b812c", null ],
+    [ "swap", "d7/dd6/classo2_1_1mch_1_1mapping_1_1CathodeSegmentation.html#afb014788aa09f1d4099f3a783e74b1cd", null ]
+];

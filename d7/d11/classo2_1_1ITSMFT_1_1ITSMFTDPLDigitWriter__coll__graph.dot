@@ -1,0 +1,37 @@
+digraph "o2::ITSMFT::ITSMFTDPLDigitWriter"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::ITSMFT::ITSMFTDPLDigit\lWriter\n||+ init()\l+ run()\l# ITSMFTDPLDigitWriter()\l# getOrMakeBranch()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mOrigin" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{o2::header::Descriptor\l\< gSizeDataOriginString,\l printDataOrigin \>\n||+ Descriptor()\l+ Descriptor()\l+ Descriptor()\l+ Descriptor()\l+ operator=()\l+ operator ItgType()\l+ runtimeInit()\l+ operator==()\l+ operator==()\l+ operator\<()\l+ operator!=()\l+ operator!=()\l+ as()\l+ print()\l}",height=0.2,width=0.4,color="black",URL="$d9/db3/structo2_1_1header_1_1Descriptor.html"];
+  Node3 -> Node2 [color="grey25",fontsize="10",style="solid",label=" +itg" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{Type\n||}",height=0.2,width=0.4,color="grey75"];
+  Node4 -> Node2 [color="grey25",fontsize="10",style="solid",label=" +str" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{char\n||}",height=0.2,width=0.4,color="grey75"];
+  Node5 -> Node2 [color="grey25",fontsize="10",style="solid",label=" +arraySize\n+size\n+bitcount" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{int\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node2 [color="grey25",fontsize="10",style="solid",label=" +@14" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 [label="{\n||}",height=0.2,width=0.4,color="grey75"];
+  Node7 -> Node2 [dir="back",color="orange",fontsize="10",style="solid",label=" \< gSizeDataOriginString,\l printDataOrigin \>" ,fontname="Helvetica"];
+  Node7 [label="{o2::header::Descriptor\l\< N, PrinterPolicy \>\n||+ Descriptor()\l+ Descriptor()\l+ Descriptor()\l+ operator=()\l+ operator ItgType()\l+ Descriptor()\l+ runtimeInit()\l+ operator==()\l+ operator\<()\l+ operator!=()\l+ operator==()\l+ operator!=()\l+ as()\l+ print()\l}",height=0.2,width=0.4,color="black",URL="$d9/db3/structo2_1_1header_1_1Descriptor.html"];
+  Node3 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +itg" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +str" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +arraySize\n+size\n+bitcount" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 -> Node7 [color="grey25",fontsize="10",style="solid",label=" +@14" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mOutFile" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{unique_ptr\< TFile \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node9 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mID" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{o2::detectors::DetID\n|+ TOF\l+ PHS\l+ EMC\l+ HMP\l+ MFT\l+ Last\l|+ DetID()\l+ DetID()\l+ DetID()\l+ operator=()\l+ getID()\l+ getMask()\l+ getName()\l+ operator int()\l+ DetID()\l+ getNDetectors()\l+ getName()\l+ getMask()\l}",height=0.2,width=0.4,color="black",URL="$d6/dd5/classo2_1_1detectors_1_1DetID.html",tooltip="Static class with identifiers, bitmasks and names for ALICE detectors. "];
+  Node10 -> Node9 [color="grey25",fontsize="10",style="solid",label=" +ACO\n+First\n+FIT\n+MCH\n+TRD\n+TPC\n+ZDC\n+MID\n+ITS\n+CPV\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{static constexpr ID\n||}",height=0.2,width=0.4,color="grey75"];
+  Node5 -> Node9 [color="grey25",fontsize="10",style="solid",label=" +nDetectors" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mOutTree" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{unique_ptr\< TTree \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node12 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mDigits" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node12 [label="{vector\< o2::ITSMFT\l::o2::ITSMFT::Digit \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node13 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mFinished" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node13 [label="{bool\n||}",height=0.2,width=0.4,color="grey75"];
+}

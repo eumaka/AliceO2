@@ -1,0 +1,25 @@
+digraph "o2::trd::TRDGeometryBase"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::trd::TRDGeometryBase\n|+ st\l+ y\l+ z\l+ eps\l+ MAXMATRICES\l# TLENGTH\l# SHEIGHT\l# SWIDTH1\l# SWIDTH2\l# SLENGTH\l# FLENGTH\l# SMPLTT\l# VSPACE\l# CRAH\l# CDRH\l# CAMH\l# CROH\l# CROW\l# CH\l# CHSV\l# ANODEPOS\l# CALT\l# CCLST\l# CCLFT\l# CGLT\l# CCUTA\l# CCUTB\l# CAUT\l# CALW\l# CALH\l# CALWMOD\l# CALHMOD\l# CWSW\l# CWSH\l# DRTHICK\l# AMTHICK\l# XETHICK\l# WRTHICK\l# RMYTHICK\l# RCBTHICK\l# RFBTHICK\l# PPPTHICK\l# PCBTHICK\l# PPCTHICK\l# PRBTHICK\l# PELTHICK\l# PHCTHICK\l# DRZPOS\l# AMZPOS\l# WRZPOSA\l# WRZPOSB\l# CALZPOS\l# ROBMAXC0\l# ROBMAXC1\l# TBMAX\l# TIME0BASE\l# TIME0\l# XTRDBEG\l# XTRDEND\l# CLENGTH\l|+ ~TRDGeometryBase()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ getSector()\l+ getTime0()\l+ getXtrdBeg()\l+ getXtrdEnd()\l+ getChamberWidth()\l+ getChamberLength()\l+ getAlpha()\l+ cheight()\l+ cheightSV()\l+ cspace()\l+ craHght()\l+ cdrHght()\l+ camHght()\l+ croHght()\l+ csvHght()\l+ croWid()\l+ anodePos()\l+ myThick()\l+ drThick()\l+ amThick()\l+ drZpos()\l+ rpadW()\l+ cpadW()\l+ cwidcha()\l+ MCMmax()\l+ MCMrow()\l+ ROBmaxC0()\l+ ROBmaxC1()\l+ ADCmax()\l+ TBmax()\l+ padmax()\l+ colmax()\l+ rowmaxC0()\l+ rowmaxC1()\l# TRDGeometryBase()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #RPADW\n#VROCSM\n#PGLTHICK\n#CPADW\n#PPDTHICK\n#RRHTHICK\n#RGLTHICK\n#CSVH\n#HSPACE\n#CWIDTH\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{float\n||}",height=0.2,width=0.4,color="black",URL="$d4/dc3/classfloat.html"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mPadPlanes" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{o2::trd::TRDPadPlane\n|# mLength\l# mLengthRim\l# mLengthOPad\l# mWidthOPad\l# mTiltingAngle\l# mPadRowSMOffset\l# mAnodeWireOffset\l|+ TRDPadPlane()\l+ TRDPadPlane()\l+ TRDPadPlane()\l+ operator=()\l+ ~TRDPadPlane()\l+ setLayer()\l+ setStack()\l+ setRowSpacing()\l+ setColSpacing()\l+ setLengthRim()\l+ setWidthRim()\l+ setNcols()\l+ setNrows()\l+ setPadCol()\l+ setPadRow()\l+ setLength()\l+ setWidth()\l+ setLengthOPad()\l+ setWidthOPad()\l+ setLengthIPad()\l+ setWidthIPad()\l+ setPadRowSMOffset()\l+ setAnodeWireOffset()\l+ setTiltingAngle()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l+ GPUd()\l}",height=0.2,width=0.4,color="black",URL="$da/dc0/classo2_1_1trd_1_1TRDPadPlane.html"];
+  Node4 -> Node3 [color="grey25",fontsize="10",style="solid",label=" #mPadRow\n#mWidth\n#mTiltingTan\n#mWidthIPad\n#mPadCol\n+const\n#mLengthIPad\n#mWidthRim\n#mRowSpacing\n#mColSpacing\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{double\n||}",height=0.2,width=0.4,color="grey75"];
+  Node5 -> Node3 [color="grey25",fontsize="10",style="solid",label=" +mPadCol" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{else return rphi\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node3 [color="grey25",fontsize="10",style="solid",label=" #mNrows\n#mLayer\n#MAXROWS\n#mNcols\n#MAXCOLS\n#mStack" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 [label="{int\n||}",height=0.2,width=0.4,color="grey75"];
+  Node7 -> Node3 [color="grey25",fontsize="10",style="solid",label=" +z" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node7 [label="{else return mPadRow\l[row] mPadRowSMOffset\n||}",height=0.2,width=0.4,color="grey75"];
+  Node8 -> Node3 [color="grey25",fontsize="10",style="solid",label=" +z" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{else return mPadRow[row]\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #MCMMAX\n#MCMROW\n#PADMAX\n+const\n#mSMStatus\n#COLMAX\n#ADCMAX\n#ROWMAXC0\n#ROWMAXC1\n+stack\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +status" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{bool\n||}",height=0.2,width=0.4,color="grey75"];
+}

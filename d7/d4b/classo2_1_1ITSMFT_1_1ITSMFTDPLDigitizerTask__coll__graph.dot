@@ -1,0 +1,45 @@
+digraph "o2::ITSMFT::ITSMFTDPLDigitizerTask"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::ITSMFT::ITSMFTDPLDigitizerTask\n||+ init()\l+ run()\l# ITSMFTDPLDigitizerTask()\l# processQED()\l# setupQEDChain()\l# retrieveHits()\l# accumulate()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mHits" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{vector\< o2::ITSMFT\l::o2::ITSMFT::Hit \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mQEDEntryTimeBinNS\n#mLastQEDTimeNS" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{double\n||}",height=0.2,width=0.4,color="grey75"];
+  Node4 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mDigitizer" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node4 [label="{o2::ITSMFT::Digitizer\n||+ Digitizer()\l+ ~Digitizer()\l+ Digitizer()\l+ operator=()\l+ setDigits()\l+ setMCLabels()\l+ setROFRecords()\l+ getParams()\l+ getParams()\l+ init()\l+ process()\l+ setEventTime()\l+ getEventTime()\l+ getEndTimeOfROFMax()\l+ setContinuous()\l+ isContinuous()\l+ fillOutputContainer()\l+ setDigiParams()\l+ getDigitParams()\l+ setGeometry()\l+ getEventROFrameMin()\l+ getEventROFrameMax()\l+ resetEventROFrames()\l}",height=0.2,width=0.4,color="black",URL="$d8/d92/classo2_1_1ITSMFT_1_1Digitizer.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node5 [label="{TObject\n||}",height=0.2,width=0.4,color="black",URL="$d5/d0f/classTObject.html"];
+  Node6 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mROMode" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node6 [label="{ROMode\n||}",height=0.2,width=0.4,color="grey75"];
+  Node7 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mOrigin" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node7 [label="{Descriptor\< gSizeDataOrigin\lString, printDataOrigin \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node8 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mROFRecords\n#mROFRecordsAccum" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{vector\< o2::ITSMFT\l::o2::ITSMFT::ROFRecord \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node9 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mID" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{o2::detectors::DetID\n|+ TOF\l+ PHS\l+ EMC\l+ HMP\l+ MFT\l+ Last\l|+ DetID()\l+ DetID()\l+ DetID()\l+ operator=()\l+ getID()\l+ getMask()\l+ getName()\l+ operator int()\l+ DetID()\l+ getNDetectors()\l+ getName()\l+ getMask()\l}",height=0.2,width=0.4,color="black",URL="$d6/dd5/classo2_1_1detectors_1_1DetID.html",tooltip="Static class with identifiers, bitmasks and names for ALICE detectors. "];
+  Node10 -> Node9 [color="grey25",fontsize="10",style="solid",label=" +ACO\n+First\n+FIT\n+MCH\n+TRD\n+TPC\n+ZDC\n+MID\n+ITS\n+CPV\n..." ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{static constexpr ID\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node9 [color="grey25",fontsize="10",style="solid",label=" +nDetectors" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{int\n||}",height=0.2,width=0.4,color="grey75"];
+  Node12 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mSimChains" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node12 [label="{vector\< TChain * \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node13 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mDigitsAccum\n#mDigits" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node13 [label="{vector\< o2::ITSMFT\l::o2::ITSMFT::Digit \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #QEDSourceID\n#mLastQEDEntry\n#mFixMC2ROF" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node14 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mHitsP" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node14 [label="{vector\< o2::ITSMFT\l::o2::ITSMFT::Hit \> *\n||}",height=0.2,width=0.4,color="grey75"];
+  Node15 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mFinished" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node15 [label="{bool\n||}",height=0.2,width=0.4,color="grey75"];
+  Node16 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mMC2ROFRecordsAccum" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node16 [label="{vector\< o2::ITSMFT\l::o2::ITSMFT::MC2ROFRecord \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node17 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mQEDChain" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node17 [label="{TChain\n||}",height=0.2,width=0.4,color="grey75"];
+  Node18 -> Node1 [color="grey25",fontsize="10",style="solid",label=" #mLabels\n#mLabelsAccum" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node18 [label="{o2::dataformats::MCTruth\lContainer\< o2::o2::MCCompLabel \>\n||+ MCTruthContainer()\l+ MCTruthContainer()\l+ ~MCTruthContainer()\l+ operator=()\l+ getMCTruthHeader()\l+ getElement()\l+ getIndexedSize()\l+ getNElements()\l+ getLabels()\l+ getLabels()\l+ clear()\l+ addElement()\l+ addElements()\l+ addElements()\l+ addElementRandomAccess()\l+ mergeAtBack()\l+ ClassDefNV()\l}",height=0.2,width=0.4,color="black",URL="$dc/daa/classo2_1_1dataformats_1_1MCTruthContainer.html"];
+  Node19 -> Node18 [dir="back",color="orange",fontsize="10",style="solid",label=" \< o2::o2::MCCompLabel \>" ,fontname="Helvetica"];
+  Node19 [label="{o2::dataformats::MCTruth\lContainer\< T \>\n||+ MCTruthContainer()\l+ ~MCTruthContainer()\l+ MCTruthContainer()\l+ operator=()\l+ getMCTruthHeader()\l+ getElement()\l+ getIndexedSize()\l+ getNElements()\l+ getLabels()\l+ getLabels()\l+ clear()\l+ addElement()\l+ addElements()\l+ addElements()\l+ addElementRandomAccess()\l+ mergeAtBack()\l+ ClassDefNV()\l}",height=0.2,width=0.4,color="black",URL="$dc/daa/classo2_1_1dataformats_1_1MCTruthContainer.html"];
+}

@@ -1,0 +1,4 @@
+<map id="o2::ITSMFT::ITSMFTDPLDigitWriter" name="o2::ITSMFT::ITSMFTDPLDigitWriter">
+<area shape="rect" id="node2" href="$dc/d7d/classo2_1_1ITSMFT_1_1ITSDPLDigitWriter.html" title="{o2::ITSMFT::ITSDPLDigitWriter\n|+ DETID\l+ DETOR\l|+ ITSDPLDigitWriter()\l}" alt="" coords="5,265,213,357"/>
+<area shape="rect" id="node3" href="$dd/d22/classo2_1_1ITSMFT_1_1MFTDPLDigitWriter.html" title="{o2::ITSMFT::MFTDPLDigitWriter\n|+ DETID\l+ DETOR\l|+ MFTDPLDigitWriter()\l}" alt="" coords="238,265,452,357"/>
+</map>

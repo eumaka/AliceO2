@@ -1,0 +1,22 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/base/src/TRDGeometryBase.cxx"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/base/src\l/TRDGeometryBase.cxx",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TRDBase/TRDGeometryBase.h",height=0.2,width=0.4,color="black",URL="$d8/dad/TRDGeometryBase_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AliTPCCommonDefGPU.h",height=0.2,width=0.4,color="grey75"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TRDBase/TRDCommonParam.h",height=0.2,width=0.4,color="black",URL="$da/d32/TRDCommonParam_8h.html"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="TRDBase/TRDSimParam.h",height=0.2,width=0.4,color="black",URL="$d9/df4/TRDSimParam_8h.html"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="AliTPCCommonRtypes.h",height=0.2,width=0.4,color="grey75"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="TRDBase/TRDPadPlane.h",height=0.2,width=0.4,color="black",URL="$de/df3/TRDPadPlane_8h.html"];
+  Node7 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,35 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors">
+<area shape="rect" id="node2" href="dir_74593c7a91e03746ae2a516888bf9494.html" title="Common" alt="" coords="421,98,495,146"/>
+<area shape="rect" id="node8" href="dir_4ab6b4cc6a7edbff49100e9123df213f.html" title="Common" alt="" coords="404,194,477,242"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000065_000016.html" title="3" alt="" coords="444,169,452,184"/>
+<area shape="rect" id="node3" href="dir_ff53c4a4c37940dfaa1ef75e68c4ec2e.html" title="ITSMFT" alt="" coords="133,98,205,146"/>
+<area shape="rect" id="node7" href="dir_d269712cc31e133b892a3b3f6424741a.html" title="Reconstruction" alt="" coords="354,290,464,338"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000070_000103.html" title="3" alt="" coords="333,291,341,306"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000070_000016.html" title="2" alt="" coords="384,192,392,207"/>
+<area shape="rect" id="node11" href="dir_7924ba4398ae4560cd37376e44666c6d.html" title="common" alt="" coords="373,386,445,434"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000070_000055.html" title="2" alt="" coords="355,374,363,389"/>
+<area shape="rect" id="node4" href="dir_39a68910f3cfdc380c901647ab1550b8.html" title="MUON" alt="" coords="325,98,397,146"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000099_000016.html" title="2" alt="" coords="404,167,412,182"/>
+<area shape="rect" id="node5" href="dir_b78a6db121207500afab70b350b99369.html" title="TOF" alt="" coords="37,98,109,146"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000074_000103.html" title="1" alt="" coords="334,287,342,302"/>
+<area shape="rect" id="node6" href="dir_87e4e27fa2128902da5e37b3e7ab3f52.html" title="TPC" alt="" coords="229,98,301,146"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000077_000103.html" title="1" alt="" coords="391,262,399,277"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000077_000016.html" title="2" alt="" coords="387,180,395,194"/>
+<area shape="rect" id="node9" href="dir_183e7c4434404fe9096e1bd8673e1fcf.html" title="Headers" alt="" coords="207,194,279,242"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000077_000058.html" title="1" alt="" coords="257,171,265,185"/>
+<area shape="rect" id="node10" href="dir_047746f9f311f49446db9474b7431d0d.html" title="simulation" alt="" coords="633,98,713,146"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000077_000127.html" title="2" alt="" coords="659,70,667,85"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000077_000055.html" title="1" alt="" coords="371,359,379,374"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000103_000065.html" title="1" alt="" coords="470,159,478,174"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000103_000016.html" title="5" alt="" coords="424,250,432,265"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000103_000055.html" title="4" alt="" coords="414,360,422,375"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000016_000065.html" title="1" alt="" coords="448,156,456,171"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000016_000099.html" title="1" alt="" coords="391,158,399,173"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000016_000103.html" title="1" alt="" coords="418,267,426,282"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000127_000065.html" title="4" alt="" coords="478,77,486,92"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000127_000016.html" title="1" alt="" coords="494,208,502,222"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000127_000055.html" title="2" alt="" coords="456,374,464,389"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000055_000016.html" title="2" alt="" coords="454,254,462,269"/>
+<area shape="rect" id="clust2" href="dir_2801adc79bf3c286b1b479858d2cade4.html" alt="" coords="27,87,611,156"/>
+<area shape="rect" id="clust1" href="dir_2171f7ec022c5423887b07c69b2f5b48.html" title="DataFormats" alt="" coords="16,51,621,167"/>
+</map>

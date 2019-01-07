@@ -1,0 +1,24 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/include/MFTBase/GeometryTGeo.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/include/MFTBase/GeometryTGeo.h">
+<area shape="rect" id="node2" href="$d5/d24/ChipSegmentation_8cxx.html" title="Description of the virtual segmentation of the chips. " alt="" coords="5,146,216,217"/>
+<area shape="rect" id="node3" href="$df/d83/GeometryBuilder_8cxx.html" title="Class describing MFT Geometry Builder. " alt="" coords="241,146,444,217"/>
+<area shape="rect" id="node4" href="$df/d07/MFT_2base_2src_2GeometryTGeo_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/base/src/GeometryTGeo.cxx" alt="" coords="468,146,663,217"/>
+<area shape="rect" id="node5" href="$d1/d8f/HalfDiskSegmentation_8cxx.html" title="Class for the description of the structure of a half&#45;disk. " alt="" coords="687,146,923,217"/>
+<area shape="rect" id="node6" href="$d1/d7f/HalfSegmentation_8cxx.html" title="Segmentation class for each half of the ALICE Muon Forward Tracker. " alt="" coords="947,146,1156,217"/>
+<area shape="rect" id="node7" href="$d6/dc0/LadderSegmentation_8cxx.html" title="Description of the virtual segmentation of a ladder. " alt="" coords="1181,146,1404,217"/>
+<area shape="rect" id="node8" href="$d2/da2/extractMFTMapping_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/macros/test/extractMFTMapping.C" alt="" coords="1429,146,1659,217"/>
+<area shape="rect" id="node9" href="$db/d12/ITSMFT_2MFT_2reconstruction_2include_2MFTReconstruction_2ClustererTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/include\l/MFTReconstruction/ClustererTask.h" alt="" coords="1683,139,1921,224"/>
+<area shape="rect" id="node13" href="$d6/d36/ITSMFT_2MFT_2reconstruction_2include_2MFTReconstruction_2Tracker_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/include\l/MFTReconstruction/Tracker.h" alt="" coords="1997,139,2196,224"/>
+<area shape="rect" id="node14" href="$d2/de5/TrackerTask_8h.html" title="Task driving the track finding from MFT clusters. " alt="" coords="1948,272,2177,357"/>
+<area shape="rect" id="node18" href="$d0/d6b/ITSMFT_2MFT_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/src/Detector.cxx" alt="" coords="2221,146,2408,217"/>
+<area shape="rect" id="node19" href="$d6/d87/ITSMFT_2MFT_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/src/DigitizerTask.cxx" alt="" coords="2432,146,2645,217"/>
+<area shape="rect" id="node20" href="$d4/d77/CheckClusters__mft_8C.html" title="Simple macro to check MFT clusters. " alt="" coords="2670,153,2863,209"/>
+<area shape="rect" id="node21" href="$d1/d88/CheckDigits__mft_8C.html" title="Simple macro to check MFT digits. " alt="" coords="2888,153,3067,209"/>
+<area shape="rect" id="node22" href="$d4/d5f/run__sim__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_mft.C" alt="" coords="3091,153,3248,209"/>
+<area shape="rect" id="node23" href="$d3/d43/ITSMFTDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/ITSMFTDigitizerSpec.cxx" alt="" coords="3273,146,3471,217"/>
+<area shape="rect" id="node10" href="$d9/d5e/ITSMFT_2MFT_2reconstruction_2src_2ClustererTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/src/ClustererTask.cxx" alt="" coords="1303,279,1544,350"/>
+<area shape="rect" id="node11" href="$d4/dfd/run__clus__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_mft.C" alt="" coords="1569,287,1727,343"/>
+<area shape="rect" id="node12" href="$d7/d8c/run__clus__mftSA_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_mftSA.C" alt="" coords="1751,287,1924,343"/>
+<area shape="rect" id="node17" href="$de/d4b/ITSMFT_2MFT_2reconstruction_2src_2Tracker_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/src/Tracker.cxx" alt="" coords="2201,279,2404,350"/>
+<area shape="rect" id="node15" href="$d7/d1b/TrackerTask_8cxx.html" title="Task driving the track finding from MFT clusters. " alt="" coords="1837,406,2069,477"/>
+<area shape="rect" id="node16" href="$d6/d3f/run__trac__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_trac_mft.C" alt="" coords="2093,413,2251,469"/>
+</map>

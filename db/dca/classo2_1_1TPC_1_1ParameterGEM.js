@@ -1,0 +1,27 @@
+var classo2_1_1TPC_1_1ParameterGEM =
+[
+    [ "ParameterGEM", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a7f804fada73929568b8ed48c5196a3f0", null ],
+    [ "~ParameterGEM", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#ae1b0cfe719341bc26c21ba61cae9fc73", null ],
+    [ "getAbsoluteGain", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#afb798c3e1c7191bb096db1b771fdec76", null ],
+    [ "getCollectionEfficiency", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a080b289968052e5faaafcd890daf429d", null ],
+    [ "getDistance", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#ae0829effd8104cd96f8fef242ed6fe6f", null ],
+    [ "getEffectiveGain", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a400c2e7d56e26e347bbaa55d1d024b52", null ],
+    [ "getElectricField", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#ab18d39cc0d1d323ddff99256ae7df788", null ],
+    [ "getExtractionEfficiency", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#ad3abca2d48981f43d73db3bf0cdc4853", null ],
+    [ "getGeometry", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a1dadb889e2a91deff0c41f1d65ba63be", null ],
+    [ "getPotential", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a11c7963dfe332deda22854653019fcc7", null ],
+    [ "setAbsoluteGain", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a9a3058bd69a47cd96cde06c91a0bb6bf", null ],
+    [ "setAbsoluteGain", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#aac996b7ddb971b88e6c59f871549d9d8", null ],
+    [ "setCollectionEfficiency", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a1ef15cab1e6cef67c3a6c211a94ac9d8", null ],
+    [ "setCollectionEfficiency", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#ac12d2602405b0be7181984a558d5bb18", null ],
+    [ "setDistance", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a962f5c8552422f50a1d1d1d87781e83d", null ],
+    [ "setDistance", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a7fd3ffa61e44979279bfaf2d8eb3b05d", null ],
+    [ "setElectricField", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#acfb1c44c79d6a5f243a5d21bb65bd855", null ],
+    [ "setElectricField", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a1d873e7a96fb4f34993a20bda9e15998", null ],
+    [ "setExtractionEfficiency", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#ac911facd3b92a6cd6d72ae74ada39d27", null ],
+    [ "setExtractionEfficiency", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a8d83f78c67a80511fa90806ca5eeedbb", null ],
+    [ "setGeometry", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#ab073e326187a44d0e588e9d69c92927a", null ],
+    [ "setGeometry", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a88f5e8877451fa31232124a9d2ac1c43", null ],
+    [ "setPotential", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a9c1a3ee0ce68591ff6989f195f385ecf", null ],
+    [ "setPotential", "db/dca/classo2_1_1TPC_1_1ParameterGEM.html#a45d0a66402399efc109415739869dbe2", null ]
+];

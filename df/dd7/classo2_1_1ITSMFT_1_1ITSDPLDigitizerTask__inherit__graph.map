@@ -1,0 +1,3 @@
+<map id="o2::ITSMFT::ITSDPLDigitizerTask" name="o2::ITSMFT::ITSDPLDigitizerTask">
+<area shape="rect" id="node2" href="$db/df5/classo2_1_1ITSMFT_1_1ITSMFTDPLDigitizerTask.html" title="{o2::ITSMFT::ITSMFTDPLDigitizerTask\n|# mFinished\l# mID\l# mOrigin\l# mDigitizer\l# mDigits\l# mDigitsAccum\l# mROFRecords\l# mROFRecordsAccum\l# mHits\l# mHitsP\l# mLabels\l# mLabelsAccum\l# mMC2ROFRecordsAccum\l# mSimChains\l# mQEDChain\l# mQEDEntryTimeBinNS\l# mLastQEDTimeNS\l# mLastQEDEntry\l# mFixMC2ROF\l# mROMode\l# QEDSourceID\l|+ init()\l+ run()\l# ITSMFTDPLDigitizerTask()\l# processQED()\l# setupQEDChain()\l# retrieveHits()\l# accumulate()\l}" alt="" coords="5,5,256,464"/>
+</map>

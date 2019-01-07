@@ -1,0 +1,29 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/base/include/TOFBase/Geo.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/base/include/TOFBase/Geo.h">
+<area shape="rect" id="node2" href="$d0/d74/MatchTOF_8h.html" title="Class to perform TOF matching to global tracks. " alt="" coords="129,133,363,203"/>
+<area shape="rect" id="node3" href="$db/d6a/MatchTOF_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/GlobalTracking\l/src/MatchTOF.cxx" alt="" coords="5,266,179,337"/>
+<area shape="rect" id="node5" href="$dc/d6a/TOF_2base_2src_2Digit_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/base/src\l/Digit.cxx" alt="" coords="387,133,553,203"/>
+<area shape="rect" id="node6" href="$da/d39/Geo_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/base/src\l/Geo.cxx" alt="" coords="578,133,744,203"/>
+<area shape="rect" id="node7" href="$d3/d5a/testTOFIndex_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/base/test\l/testTOFIndex.cxx" alt="" coords="769,133,940,203"/>
+<area shape="rect" id="node8" href="$dc/d24/TOF_2reconstruction_2include_2TOFReconstruction_2Clusterer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/include/TOFReconstruction\l/Clusterer.h" alt="" coords="965,125,1163,211"/>
+<area shape="rect" id="node14" href="$d6/d4e/DataReader_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/src/DataReader.cxx" alt="" coords="1187,133,1385,203"/>
+<area shape="rect" id="node15" href="$d5/d3c/TOF_2simulation_2include_2TOFSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Detector.h" alt="" coords="1531,133,1753,203"/>
+<area shape="rect" id="node17" href="$d0/d85/TOF_2simulation_2include_2TOFSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer.h" alt="" coords="1776,393,1997,463"/>
+<area shape="rect" id="node4" href="$dd/d7c/run__match__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_match_tof.C" alt="" coords="204,273,367,329"/>
+<area shape="rect" id="node9" href="$d4/d74/TOF_2reconstruction_2include_2TOFReconstruction_2ClustererTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/include/TOFReconstruction\l/ClustererTask.h" alt="" coords="965,259,1163,344"/>
+<area shape="rect" id="node12" href="$d5/d8a/TOF_2reconstruction_2src_2Clusterer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/src/Clusterer.cxx" alt="" coords="525,266,723,337"/>
+<area shape="rect" id="node13" href="$da/df1/TOFClusterizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFClusterizerSpec.cxx" alt="" coords="748,266,940,337"/>
+<area shape="rect" id="node10" href="$d5/d10/TOF_2reconstruction_2src_2ClustererTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/src/ClustererTask.cxx" alt="" coords="765,393,963,463"/>
+<area shape="rect" id="node11" href="$d9/d4b/run__clus__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_tof.C" alt="" coords="988,400,1145,456"/>
+<area shape="rect" id="node16" href="$de/d69/drawTOFgeometry_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/prototyping\l/drawTOFgeometry.C" alt="" coords="1444,266,1625,337"/>
+<area shape="rect" id="node18" href="$d8/dc6/TOF_2simulation_2include_2TOFSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer\lTask.h" alt="" coords="1381,512,1591,597"/>
+<area shape="rect" id="node23" href="$dd/d77/Strip_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Strip.h" alt="" coords="1649,266,1848,337"/>
+<area shape="rect" id="node25" href="$d4/d59/TOF_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Detector.cxx" alt="" coords="1924,266,2100,337"/>
+<area shape="rect" id="node26" href="$dc/d6a/run__sim__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_tof.C" alt="" coords="2124,273,2281,329"/>
+<area shape="rect" id="node27" href="$db/d50/O2HitMerger_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMerger.h" alt="" coords="1188,273,1345,329"/>
+<area shape="rect" id="node21" href="$d4/df3/TOF_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Digitizer.cxx" alt="" coords="1899,519,2075,590"/>
+<area shape="rect" id="node22" href="$d6/d61/TOFDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFDigitizerSpec.cxx" alt="" coords="1697,519,1873,590"/>
+<area shape="rect" id="node19" href="$dd/df3/TOF_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/DigitizerTask.cxx" alt="" coords="1304,646,1480,717"/>
+<area shape="rect" id="node20" href="$db/d79/run__digi__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_tof.C" alt="" coords="1504,653,1661,709"/>
+<area shape="rect" id="node24" href="$d6/d43/Strip_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Strip.cxx" alt="" coords="1576,393,1752,463"/>
+<area shape="rect" id="node28" href="$d9/d16/O2HitMergerRunner_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMergerRunner.cxx" alt="" coords="1172,400,1361,456"/>
+</map>

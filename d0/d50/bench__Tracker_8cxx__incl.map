@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Tracking/test/bench_Tracker.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Tracking/test/bench_Tracker.cxx">
+<area shape="rect" id="node5" href="$d6/d31/Cluster2D_8h.html" title="Reconstructed cluster per RPC. " alt="" coords="1553,216,1751,243"/>
+<area shape="rect" id="node8" href="$d4/d54/DataFormats_2Detectors_2MUON_2MID_2include_2DataFormatsMID_2Track_8h.html" title="Reconstructed MID track. " alt="" coords="844,216,1015,243"/>
+<area shape="rect" id="node25" href="$d4/d73/MID_2Base_2include_2MIDBase_2Mapping_8h.html" title="Mapping for MID. " alt="" coords="341,133,481,160"/>
+<area shape="rect" id="node27" href="$d7/d0a/MpArea_8h.html" title="Mapping area for MID. " alt="" coords="231,216,368,243"/>
+<area shape="rect" id="node28" href="$d7/d40/HitFinder_8h.html" title="Hit finder for MID. " alt="" coords="857,133,1001,160"/>
+<area shape="rect" id="node31" href="$d3/d93/TrackGenerator_8h.html" title="Fast track generator for MID. " alt="" coords="558,126,703,167"/>
+<area shape="rect" id="node32" href="$db/d8e/MUON_2MID_2Tracking_2include_2MIDTracking_2Tracker_8h.html" title="MIDTracking/Tracker.h" alt="" coords="1074,133,1229,160"/>
+<area shape="rect" id="node13" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1115,299,1281,325"/>
+<area shape="rect" id="node22" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1638,389,1804,416"/>
+<area shape="rect" id="node29" href="$de/d0c/GeometryTransformer_8h.html" title="Geometry transformer for MID. " alt="" coords="1089,216,1308,243"/>
+<area shape="rect" id="node30" href="$dd/df0/Detectors_2MUON_2MID_2Base_2include_2MIDBase_2Constants_8h.html" title="Useful constants for MID. " alt="" coords="668,216,820,243"/>
+<area shape="rect" id="node33" href="$d0/daa/Cluster3D_8h.html" title="Reconstructed MID cluster (global coordinates) " alt="" coords="1332,216,1529,243"/>
+</map>

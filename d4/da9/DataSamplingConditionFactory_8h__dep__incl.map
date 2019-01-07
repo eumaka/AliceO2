@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/DataSamplingConditionFactory.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/DataSamplingConditionFactory.h">
+<area shape="rect" id="node2" href="$de/d2b/DataSamplingConditionFactory_8cxx.html" title="Implementation of DataSamplingConditionFactory. " alt="" coords="5,139,235,210"/>
+<area shape="rect" id="node3" href="$d0/dd6/DataSamplingConditionNConsecutive_8cxx.html" title="Implementation of DataSamplingConditionNConsecutive. " alt="" coords="259,139,489,210"/>
+<area shape="rect" id="node4" href="$d0/dab/DataSamplingConditionPayloadSize_8cxx.html" title="Implementation of DataSamplingConditionPayloadSize. " alt="" coords="514,139,744,210"/>
+<area shape="rect" id="node5" href="$d4/dba/DataSamplingConditionRandom_8cxx.html" title="Implementation of random DataSamplingCondition. " alt="" coords="769,139,999,210"/>
+<area shape="rect" id="node6" href="$de/d3b/DataSamplingPolicy_8cxx.html" title="Implementation of O2 Data Sampling Policy. " alt="" coords="1023,139,1253,210"/>
+<area shape="rect" id="node7" href="$dd/d70/test__DataSamplingCondition_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_DataSamplingCondition.cxx" alt="" coords="1278,139,1468,210"/>
+</map>

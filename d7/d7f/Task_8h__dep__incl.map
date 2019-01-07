@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/Task.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/Task.h">
+<area shape="rect" id="node2" href="$d7/d33/Dispatcher_8h.html" title="Declaration of Dispatcher for O2 Data Sampling. " alt="" coords="183,126,352,197"/>
+<area shape="rect" id="node5" href="$d5/d01/Task_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/Task.cxx" alt="" coords="377,133,580,189"/>
+<area shape="rect" id="node6" href="$db/d49/test__Task_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_Task.cxx" alt="" coords="605,126,779,197"/>
+<area shape="rect" id="node7" href="$dd/dfe/FITDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FITDigitizerSpec.cxx" alt="" coords="804,126,975,197"/>
+<area shape="rect" id="node8" href="$d9/d59/GRPUpdaterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/GRPUpdaterSpec.cxx" alt="" coords="999,126,1177,197"/>
+<area shape="rect" id="node9" href="$d8/d00/HMPIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitizerSpec.cxx" alt="" coords="1201,126,1396,197"/>
+<area shape="rect" id="node10" href="$dc/dbc/HMPIDDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitWriterSpec.cxx" alt="" coords="1421,126,1629,197"/>
+<area shape="rect" id="node11" href="$d3/d43/ITSMFTDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/ITSMFTDigitizerSpec.cxx" alt="" coords="1654,126,1852,197"/>
+<area shape="rect" id="node12" href="$df/d17/ITSMFTDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/ITSMFTDigitWriterSpec.cxx" alt="" coords="1877,126,2091,197"/>
+<area shape="rect" id="node13" href="$da/df1/TOFClusterizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFClusterizerSpec.cxx" alt="" coords="2115,126,2307,197"/>
+<area shape="rect" id="node14" href="$d6/df2/TRDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TRDDigitizerSpec.cxx" alt="" coords="2331,126,2509,197"/>
+<area shape="rect" id="node3" href="$d0/dd6/DataSampling_8cxx.html" title="Implementation of O2 Data Sampling, v1.0. " alt="" coords="5,245,261,301"/>
+<area shape="rect" id="node4" href="$d1/dca/Dispatcher_8cxx.html" title="Implementation of Dispatcher for O2 Data Sampling. " alt="" coords="285,245,521,301"/>
+</map>

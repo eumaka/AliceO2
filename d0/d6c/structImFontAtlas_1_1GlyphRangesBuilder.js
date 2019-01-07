@@ -1,0 +1,25 @@
+var structImFontAtlas_1_1GlyphRangesBuilder =
+[
+    [ "GlyphRangesBuilder", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a3c8d81e21a62329830d4c36ca4a1fbc3", null ],
+    [ "GlyphRangesBuilder", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a3c8d81e21a62329830d4c36ca4a1fbc3", null ],
+    [ "GlyphRangesBuilder", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a3c8d81e21a62329830d4c36ca4a1fbc3", null ],
+    [ "AddChar", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a6b6b18e5c5fc4366afc98ff7391ba0bf", null ],
+    [ "AddChar", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a6b6b18e5c5fc4366afc98ff7391ba0bf", null ],
+    [ "AddChar", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a6b6b18e5c5fc4366afc98ff7391ba0bf", null ],
+    [ "AddRanges", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a93174d62f8cf366528b654806ca7be49", null ],
+    [ "AddRanges", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a9986a171e87786832524b98bb284ea3b", null ],
+    [ "AddRanges", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a9986a171e87786832524b98bb284ea3b", null ],
+    [ "AddText", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a4dbdc02cd8eafc2e16f6c4811b5f5858", null ],
+    [ "AddText", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a4dbdc02cd8eafc2e16f6c4811b5f5858", null ],
+    [ "AddText", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a6c0f9756dc8ea184920d5ff28bfdb669", null ],
+    [ "BuildRanges", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a692ced63b0dd11347585803efda64492", null ],
+    [ "BuildRanges", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a692ced63b0dd11347585803efda64492", null ],
+    [ "BuildRanges", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#aa55b5710971adef2e4c690a3e46de6d5", null ],
+    [ "GetBit", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a157a4d95c361d717c073d5815d576eb5", null ],
+    [ "GetBit", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a157a4d95c361d717c073d5815d576eb5", null ],
+    [ "GetBit", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a157a4d95c361d717c073d5815d576eb5", null ],
+    [ "SetBit", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#aff570c016f17c1cd8d3a819b5f7a056c", null ],
+    [ "SetBit", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#aff570c016f17c1cd8d3a819b5f7a056c", null ],
+    [ "SetBit", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#aff570c016f17c1cd8d3a819b5f7a056c", null ],
+    [ "UsedChars", "d0/d6c/structImFontAtlas_1_1GlyphRangesBuilder.html#a54a1b53e05cb23bf21ceb3eba51c9527", null ]
+];

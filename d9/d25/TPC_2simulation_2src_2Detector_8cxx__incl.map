@@ -1,0 +1,22 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/Detector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/Detector.cxx">
+<area shape="rect" id="node2" href="$da/d96/TPC_2simulation_2include_2TPCSimulation_2Detector_8h.html" title="TPCSimulation/Detector.h" alt="" coords="2610,133,2784,160"/>
+<area shape="rect" id="node29" href="$d4/de5/Point_8h.html" title="Class for TPC Point. " alt="" coords="1809,224,1963,251"/>
+<area shape="rect" id="node46" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="5264,224,5443,251"/>
+<area shape="rect" id="node48" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="4180,126,4332,167"/>
+<area shape="rect" id="node66" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="4929,217,5081,258"/>
+<area shape="rect" id="node3" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="2610,224,2784,251"/>
+<area shape="rect" id="node42" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1466,224,1597,251"/>
+<area shape="rect" id="node10" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="2110,315,2329,341"/>
+<area shape="rect" id="node18" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1593,397,1788,424"/>
+<area shape="rect" id="node23" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1789,315,1984,341"/>
+<area shape="rect" id="node30" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1009,307,1161,349"/>
+<area shape="rect" id="node31" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="998,397,1164,424"/>
+<area shape="rect" id="node39" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1391,480,1557,507"/>
+<area shape="rect" id="node43" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1432,315,1631,341"/>
+<area shape="rect" id="node44" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1240,315,1408,341"/>
+<area shape="rect" id="node49" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="4643,307,4851,349"/>
+<area shape="rect" id="node55" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="4319,217,4471,258"/>
+<area shape="rect" id="node62" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3623,307,3775,349"/>
+<area shape="rect" id="node52" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="5227,397,5347,424"/>
+<area shape="rect" id="node53" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="5146,480,5384,507"/>
+</map>

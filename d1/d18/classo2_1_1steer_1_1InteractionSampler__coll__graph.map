@@ -1,0 +1,4 @@
+<map id="o2::steer::InteractionSampler" name="o2::steer::InteractionSampler">
+<area shape="rect" id="node2" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="5,57,51,135"/>
+<area shape="rect" id="node4" href="$d6/dca/classo2_1_1BunchFilling.html" title="{o2::BunchFilling\n||+ getNBunches()\l+ testBC()\l+ setBC()\l+ setBCTrain()\l+ setBCTrains()\l+ print()\l+ getPattern()\l+ setDefault()\l}" alt="" coords="238,6,359,186"/>
+</map>

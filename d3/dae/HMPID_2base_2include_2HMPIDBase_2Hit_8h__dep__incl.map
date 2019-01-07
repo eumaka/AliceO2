@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/base/include/HMPIDBase/Hit.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/base/include/HMPIDBase/Hit.h">
+<area shape="rect" id="node2" href="$d7/d09/HMPID_2base_2include_2HMPIDBase_2Digit_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/base\l/include/HMPIDBase/Digit.h" alt="" coords="336,126,523,197"/>
+<area shape="rect" id="node8" href="$df/d79/HMPID_2simulation_2include_2HMPIDSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/simulation\l/include/HMPIDSimulation/Detector.h" alt="" coords="726,126,967,197"/>
+<area shape="rect" id="node3" href="$da/d5e/HMPID_2base_2src_2Digit_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/base\l/src/Digit.cxx" alt="" coords="289,246,452,317"/>
+<area shape="rect" id="node4" href="$d7/d3d/HMPIDDigitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/simulation\l/include/HMPIDSimulation/HMPIDDigitizer.h" alt="" coords="527,246,808,317"/>
+<area shape="rect" id="node5" href="$dc/d6e/HMPIDDigitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/simulation\l/src/HMPIDDigitizer.cxx" alt="" coords="253,366,448,437"/>
+<area shape="rect" id="node6" href="$d8/d00/HMPIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitizerSpec.cxx" alt="" coords="571,366,765,437"/>
+<area shape="rect" id="node7" href="$dc/dbc/HMPIDDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitWriterSpec.cxx" alt="" coords="5,246,213,317"/>
+<area shape="rect" id="node9" href="$d7/d24/HMPID_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/HMPID/simulation\l/src/Detector.cxx" alt="" coords="884,246,1079,317"/>
+<area shape="rect" id="node10" href="$db/d50/O2HitMerger_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMerger.h" alt="" coords="1103,253,1260,309"/>
+<area shape="rect" id="node11" href="$d9/d16/O2HitMergerRunner_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMergerRunner.cxx" alt="" coords="1087,373,1276,429"/>
+</map>

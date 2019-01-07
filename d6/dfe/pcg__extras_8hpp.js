@@ -1,0 +1,28 @@
+var pcg__extras_8hpp =
+[
+    [ "seed_seq_from", "d2/d88/classpcg__extras_1_1seed__seq__from.html", "d2/d88/classpcg__extras_1_1seed__seq__from" ],
+    [ "static_arbitrary_seed", "d2/d67/structpcg__extras_1_1static__arbitrary__seed.html", null ],
+    [ "PCG_128BIT_CONSTANT", "d6/dfe/pcg__extras_8hpp.html#af849f3ca313cf7594477c08693a9ad26", null ],
+    [ "PCG_EMULATED_128BIT_MATH", "d6/dfe/pcg__extras_8hpp.html#a97aa3ae4f7f10fc3c350e8a7fdd4deba", null ],
+    [ "PCG_NOINLINE", "d6/dfe/pcg__extras_8hpp.html#ad25d06434a609db5310c4b4e11f48040", null ],
+    [ "bitcount_t", "d6/dfe/pcg__extras_8hpp.html#a65a637ab6de9e71377b242891018695c", null ],
+    [ "pcg128_t", "d6/dfe/pcg__extras_8hpp.html#af8b3abc3d67d2b36426c7556dc726307", null ],
+    [ "bounded_rand", "d6/dfe/pcg__extras_8hpp.html#a09fe30ab14f4bae059b13199966e6562", null ],
+    [ "generate_one", "d6/dfe/pcg__extras_8hpp.html#aa725ad9f9f0b511be8646ffff716665d", null ],
+    [ "generate_to", "d6/dfe/pcg__extras_8hpp.html#a41e1950d9f7429f7e9775c3924a861db", null ],
+    [ "generate_to_impl", "d6/dfe/pcg__extras_8hpp.html#a908d65518153efed3219c2bd26d54789", null ],
+    [ "generate_to_impl", "d6/dfe/pcg__extras_8hpp.html#a61f43320af045b4a81fd1d47ddb0d9af", null ],
+    [ "operator<<", "d6/dfe/pcg__extras_8hpp.html#a41f557d4b3de5723fbea74a42375adff", null ],
+    [ "operator<<", "d6/dfe/pcg__extras_8hpp.html#accb964dd39270b688b7c1d16edba7bbe", null ],
+    [ "operator<<", "d6/dfe/pcg__extras_8hpp.html#a190f7c2ff4231922080d5e7a578341c4", null ],
+    [ "operator>>", "d6/dfe/pcg__extras_8hpp.html#a4705963e2fdfc7b83823cf0fad8bfc1d", null ],
+    [ "operator>>", "d6/dfe/pcg__extras_8hpp.html#a88f8349e765ec46a73d43f26c89ecae9", null ],
+    [ "operator>>", "d6/dfe/pcg__extras_8hpp.html#ac80e2fdc2d7998717af4cc18fdfe0a25", null ],
+    [ "rotl", "d6/dfe/pcg__extras_8hpp.html#a7cb58f709cce6e8b5335f104acad8314", null ],
+    [ "rotr", "d6/dfe/pcg__extras_8hpp.html#afae38bd6d5a7e1d79b8e32fc38dbabe3", null ],
+    [ "shuffle", "d6/dfe/pcg__extras_8hpp.html#a131f49fae5a8125fbe37eee8c28154b2", null ],
+    [ "uneven_copy", "d6/dfe/pcg__extras_8hpp.html#a7be0229515bb8d26962826f1c484ec9d", null ],
+    [ "uneven_copy_impl", "d6/dfe/pcg__extras_8hpp.html#ae1857a2bac68e1df88092dc2d5a136b4", null ],
+    [ "uneven_copy_impl", "d6/dfe/pcg__extras_8hpp.html#a7150076de2f368a305a6123f3004e5a3", null ],
+    [ "unxorshift", "d6/dfe/pcg__extras_8hpp.html#a4f03e67e7e86db7eaeb41c67d0cd2cb5", null ]
+];

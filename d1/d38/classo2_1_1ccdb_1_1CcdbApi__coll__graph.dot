@@ -1,0 +1,8 @@
+digraph "o2::ccdb::CcdbApi"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::ccdb::CcdbApi\n||+ CcdbApi()\l+ ~CcdbApi()\l+ init()\l+ store()\l+ retrieve()\l+ truncate()\l+ deleteObject()\l+ list()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

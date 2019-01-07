@@ -1,0 +1,7 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Utilities/DataCompression/test/test_HuffmanCodec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Utilities/DataCompression/test/test_HuffmanCodec.cxx">
+<area shape="rect" id="node11" href="$d8/d99/dc__primitives_8h.html" title="Primitives for data compression. " alt="" coords="391,126,575,167"/>
+<area shape="rect" id="node16" href="$d1/daf/HuffmanCodec_8h.html" title="Implementation of a Huffman codec. " alt="" coords="964,126,1148,167"/>
+<area shape="rect" id="node28" href="$d3/dde/DataGenerator_8h.html" title="A simple data generator. " alt="" coords="1658,133,1776,160"/>
+<area shape="rect" id="node32" href="$da/dd6/Fifo_8h.html" title="Thread safe FIFO. " alt="" coords="2097,133,2151,160"/>
+<area shape="rect" id="node22" href="$dd/ded/CompStream_8h.html" title="Implementation of iostreams with compression filter. " alt="" coords="1200,216,1395,243"/>
+</map>

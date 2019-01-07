@@ -1,0 +1,6 @@
+<map id="o2::ccdb::StorageFactory" name="o2::ccdb::StorageFactory">
+<area shape="rect" id="node3" href="$d4/d72/classo2_1_1ccdb_1_1FileStorageFactory.html" title="{o2::ccdb::FileStorageFactory\n||+ validateStorageUri()\l+ createStorageParameter()\l# createStorage()\l}" alt="" coords="5,309,195,416"/>
+<area shape="rect" id="node4" href="$db/da9/classo2_1_1ccdb_1_1GridStorageFactory.html" title="{o2::ccdb::GridStorageFactory\n||+ validateStorageUri()\l+ createStorageParameter()\l+ ~GridStorageFactory()\l# createStorage()\l}" alt="" coords="219,302,412,423"/>
+<area shape="rect" id="node5" href="$df/d0a/classo2_1_1ccdb_1_1LocalStorageFactory.html" title="{o2::ccdb::LocalStorageFactory\n||+ validateStorageUri()\l+ createStorageParameter()\l# createStorage()\l}" alt="" coords="437,309,636,416"/>
+<area shape="rect" id="node2" href="$d5/d0f/classTObject.html" title="{TObject\n||}" alt="" coords="282,5,349,83"/>
+</map>

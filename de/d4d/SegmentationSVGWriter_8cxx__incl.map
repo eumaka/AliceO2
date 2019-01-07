@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/SegContour/src/SegmentationSVGWriter.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/SegContour/src/SegmentationSVGWriter.cxx">
+<area shape="rect" id="node2" href="$d0/db8/CathodeSegmentationSVGWriter_8h.html" title="MCHMappingSegContour\l/CathodeSegmentationSVGWriter.h" alt="" coords="740,126,969,167"/>
+<area shape="rect" id="node4" href="$de/d51/SVGWriter_8h.html" title="MCHContour/SVGWriter.h" alt="" coords="857,216,1033,243"/>
+<area shape="rect" id="node29" href="$df/db6/CathodeSegmentation_8h.html" title="MCHMappingInterface\l/CathodeSegmentation.h" alt="" coords="1418,457,1584,498"/>
+<area shape="rect" id="node32" href="$d2/d32/CathodeSegmentationContours_8h.html" title="MCHMappingSegContour\l/CathodeSegmentationContours.h" alt="" coords="1033,366,1252,407"/>
+<area shape="rect" id="node5" href="$db/d08/Contour_8h.html" title="Contour.h" alt="" coords="933,464,1011,491"/>
+<area shape="rect" id="node13" href="$d0/ddc/BBox_8h.html" title="BBox.h" alt="" coords="1138,621,1203,648"/>
+<area shape="rect" id="node23" href="$d4/d84/ContourCreator_8h.html" title="ContourCreator.h" alt="" coords="681,291,804,317"/>
+<area shape="rect" id="node6" href="$dc/ddd/Polygon_8h.html" title="Polygon.h" alt="" coords="777,547,856,573"/>
+<area shape="rect" id="node20" href="$dd/dbc/Detectors_2MUON_2MCH_2Contour_2include_2MCHContour_2Vertex_8h.html" title="Vertex.h" alt="" coords="374,621,444,648"/>
+<area shape="rect" id="node14" href="$d2/dc4/Helper_8h.html" title="Helper.h" alt="" coords="623,696,693,723"/>
+<area shape="rect" id="node24" href="$dc/d15/ContourCreator_8inl.html" title="ContourCreator.inl" alt="" coords="625,373,753,400"/>
+<area shape="rect" id="node25" href="$d5/de0/Edge_8h.html" title="Edge.h" alt="" coords="378,547,440,573"/>
+<area shape="rect" id="node27" href="$dc/ded/SegmentTree_8h.html" title="SegmentTree.h" alt="" coords="541,547,651,573"/>
+<area shape="rect" id="node26" href="$d1/d55/Interval_8h.html" title="Interval.h" alt="" coords="469,621,544,648"/>
+<area shape="rect" id="node30" href="$d0/dc7/CathodeSegmentationCInterface_8h.html" title="CathodeSegmentationCInterface.h" alt="" coords="1521,547,1743,573"/>
+</map>

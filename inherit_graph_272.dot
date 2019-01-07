@@ -1,0 +1,23 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="o2::conf::ConfigurableParam",height=0.2,width=0.4,color="black",URL="$d6/d14/classo2_1_1conf_1_1ConfigurableParam.html"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="o2::conf::ConfigurableParam\lHelper\< BazParam \>",height=0.2,width=0.4,color="black",URL="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="BazParam",height=0.2,width=0.4,color="black",URL="$df/d57/classBazParam.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="o2::conf::ConfigurableParam\lHelper\< HallSimParam \>",height=0.2,width=0.4,color="black",URL="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="o2::passive::HallSimParam",height=0.2,width=0.4,color="black",URL="$da/d14/structo2_1_1passive_1_1HallSimParam.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="o2::conf::ConfigurableParam\lHelper\< InteractionDiamondParam \>",height=0.2,width=0.4,color="black",URL="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="o2::eventgen::Interaction\lDiamondParam",height=0.2,width=0.4,color="black",URL="$d4/dcf/structo2_1_1eventgen_1_1InteractionDiamondParam.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="o2::conf::ConfigurableParam\lHelper\< P \>",height=0.2,width=0.4,color="black",URL="$d7/d50/classo2_1_1conf_1_1ConfigurableParamHelper.html"];
+}

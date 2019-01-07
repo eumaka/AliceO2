@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/SpaceCharge.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/SpaceCharge.cxx">
+<area shape="rect" id="node7" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1382,200,1620,227"/>
+<area shape="rect" id="node8" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="2384,125,2583,152"/>
+<area shape="rect" id="node9" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="859,200,1027,227"/>
+<area shape="rect" id="node23" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="1919,125,2065,152"/>
+<area shape="rect" id="node38" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1475,125,1595,152"/>
+<area shape="rect" id="node40" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="1619,125,1797,152"/>
+<area shape="rect" id="node41" href="$d3/db6/SpaceCharge_8h.html" title="Definition of the handler for the ALICE TPC space&#45;charge distortions calculations. " alt="" coords="1177,125,1380,152"/>
+<area shape="rect" id="node11" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="143,357,309,384"/>
+<area shape="rect" id="node14" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1070,275,1236,301"/>
+<area shape="rect" id="node25" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="2499,200,2655,227"/>
+<area shape="rect" id="node28" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="2134,200,2367,227"/>
+<area shape="rect" id="node34" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="1965,200,2109,227"/>
+<area shape="rect" id="node31" href="$d8/d64/Chebyshev3D_8h.html" title="MathUtils/Chebyshev3D.h" alt="" coords="2221,275,2397,301"/>
+<area shape="rect" id="node33" href="$d4/d08/Chebyshev3DCalc_8h.html" title="MathUtils/Chebyshev3DCalc.h" alt="" coords="2069,357,2272,384"/>
+</map>

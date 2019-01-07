@@ -1,0 +1,5 @@
+<map id="ImGui::FrameLayout" name="ImGui::FrameLayout">
+<area shape="rect" id="node2" href="$de/d50/structImRect.html" title="{ImRect\n||+ ImRect()\l+ ImRect()\l+ ImRect()\l+ ImRect()\l+ GetCenter()\l+ GetSize()\l+ GetWidth()\l+ GetHeight()\l+ GetTL()\l+ GetTR()\l+ GetBL()\l+ GetBR()\l+ Contains()\l+ Contains()\l+ Overlaps()\l+ Add()\l+ Add()\l+ Expand()\l+ Expand()\l+ Translate()\l+ ClipWith()\l+ ClipWithFull()\l+ Floor()\l+ IsInverted()\l}" alt="" coords="18,433,131,847"/>
+<area shape="rect" id="node3" href="$d3/dc2/structImVec2.html" title="{ImVec2\n||+ ImVec2()\l+ ImVec2()\l+ operator[]()\l+ ImVec2()\l+ ImVec2()\l+ operator[]()\l+ ImVec2()\l+ ImVec2()\l+ operator[]()\l}" alt="" coords="26,160,123,355"/>
+<area shape="rect" id="node4" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="51,5,97,83"/>
+</map>

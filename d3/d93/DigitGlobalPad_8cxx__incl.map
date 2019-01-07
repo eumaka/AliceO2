@@ -1,0 +1,30 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/DigitGlobalPad.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/DigitGlobalPad.cxx">
+<area shape="rect" id="node2" href="$d5/dcb/DigitGlobalPad_8h.html" title="Definition of the GlobalPad container. " alt="" coords="612,441,791,482"/>
+<area shape="rect" id="node34" href="$d7/d2c/Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1614,365,1751,392"/>
+<area shape="rect" id="node45" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="2115,133,2351,160"/>
+<area shape="rect" id="node3" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="584,697,736,738"/>
+<area shape="rect" id="node5" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="232,531,384,573"/>
+<area shape="rect" id="node11" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1014,539,1137,565"/>
+<area shape="rect" id="node12" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1307,787,1475,813"/>
+<area shape="rect" id="node28" href="$df/db1/TPC_2base_2include_2TPCBase_2Digit_8h.html" title="TPCBase/Digit.h" alt="" coords="542,539,663,565"/>
+<area shape="rect" id="node31" href="$dd/df5/DigitMCMetaData_8h.html" title="Definition of the Meta Data object of the Monte Carlo Digit. " alt="" coords="95,862,285,903"/>
+<area shape="rect" id="node25" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1522,704,1653,731"/>
+<area shape="rect" id="node27" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1229,621,1352,648"/>
+<area shape="rect" id="node14" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1873,960,2039,987"/>
+<area shape="rect" id="node17" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1307,869,1473,896"/>
+<area shape="rect" id="node26" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1499,787,1697,813"/>
+<area shape="rect" id="node29" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="396,787,623,813"/>
+<area shape="rect" id="node38" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1510,621,1649,648"/>
+<area shape="rect" id="node39" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1611,539,1773,565"/>
+<area shape="rect" id="node40" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1213,539,1384,565"/>
+<area shape="rect" id="node41" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1400,448,1544,475"/>
+<area shape="rect" id="node42" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2166,704,2308,731"/>
+<area shape="rect" id="node43" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1721,448,1900,475"/>
+<area shape="rect" id="node44" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1977,448,2140,475"/>
+<area shape="rect" id="node47" href="$d8/d81/CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1269,216,1403,243"/>
+<area shape="rect" id="node53" href="$db/dac/RandomRing_8h.html" title="TPCBase/RandomRing.h" alt="" coords="2236,291,2407,317"/>
+<area shape="rect" id="node56" href="$db/dad/ParameterDetector_8h.html" title="Definition of the parameter class for the detector. " alt="" coords="2065,365,2268,392"/>
+<area shape="rect" id="node57" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="2431,291,2649,317"/>
+<area shape="rect" id="node58" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="2484,216,2663,243"/>
+<area shape="rect" id="node52" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1263,291,1408,317"/>
+</map>
